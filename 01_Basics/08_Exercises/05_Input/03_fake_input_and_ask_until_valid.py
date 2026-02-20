@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：依赖注入 input（fake_input + 校验重试）
+Author: Lambert
 
 题目：
 1) 实现 `make_fake_input(items)`：返回一个函数，可替代 `input()`（每次返回下一条预置输入）
@@ -59,4 +60,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

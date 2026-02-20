@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 05: assert and __debug__.
+Author: Lambert
 
 Run:
     python3 01_Basics/29_Contextlib_Assert_Pdb/05_assert_and_debug.py

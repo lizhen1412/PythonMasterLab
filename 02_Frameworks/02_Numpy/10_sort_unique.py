@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：排序/去重/searchsorted。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/10_sort_unique.py

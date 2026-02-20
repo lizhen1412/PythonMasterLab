@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 10：lru_cache 斐波那契。
+Author: Lambert
 
 题目：
 实现带缓存的 `fib(n)`：

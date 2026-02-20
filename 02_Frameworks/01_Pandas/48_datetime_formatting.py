@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 48：日期格式化（dt.strftime）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/48_datetime_formatting.py

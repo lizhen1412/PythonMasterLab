@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 49：CSV 编码与中文（encoding）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/49_io_csv_encoding.py

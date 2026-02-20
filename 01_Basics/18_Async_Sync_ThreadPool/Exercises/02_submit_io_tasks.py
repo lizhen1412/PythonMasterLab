@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：线程池并发假 I/O，收集结果。
+Author: Lambert
 """
 
 from __future__ import annotations

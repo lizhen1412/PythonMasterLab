@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：match 基础（字面量/单例/OR/guard/默认分支）
+Author: Lambert
 
 你会学到：
 1) `match subject:` / `case pattern:` 的基本结构
@@ -64,4 +65,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

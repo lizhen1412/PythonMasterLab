@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 04: ProcessPoolExecutor usage.
+Author: Lambert
 
 Run:
     python3 01_Basics/30_Multiprocessing_Contextvars/04_process_pool_executor.py

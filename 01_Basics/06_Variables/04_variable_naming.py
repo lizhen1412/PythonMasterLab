@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：变量命名（标识符规则 + 命名约定）。
+Author: Lambert
 
 你会学到：
 1) 什么字符串能当变量名：`str.isidentifier()`
@@ -54,4 +55,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

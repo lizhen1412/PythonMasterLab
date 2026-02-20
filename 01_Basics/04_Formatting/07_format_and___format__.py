@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：format() 与 __format__ ——格式化是怎么“落到对象身上”的。
+Author: Lambert
 
 关键认知：
 1) `format(value, spec)` 会调用 `value.__format__(spec)`
@@ -55,4 +56,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

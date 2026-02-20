@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：捕获 print 输出（StringIO）
+Author: Lambert
 
 题目：
 实现 `capture_print(*args, **kwargs) -> str`，要求：
@@ -37,4 +38,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

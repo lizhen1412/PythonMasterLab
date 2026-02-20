@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 13：文本排版（让输出更“像样”）。
+Author: Lambert
 
 你会学到：
 1) `textwrap.fill`：自动换行（控制宽度）
@@ -42,4 +43,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

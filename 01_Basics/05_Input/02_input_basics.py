@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：input() 基础。
+Author: Lambert
 
 你会学到：
 1) `input(prompt)` 会从标准输入（stdin）读“一行”，返回 **str**
@@ -42,4 +43,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

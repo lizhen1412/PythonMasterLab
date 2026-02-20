@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：字符串（str）。
+Author: Lambert
 
 你会学到：
 1) 字符串创建：单引号/双引号/三引号
@@ -68,4 +69,3 @@ line"""
 
 if __name__ == "__main__":
     main()
-

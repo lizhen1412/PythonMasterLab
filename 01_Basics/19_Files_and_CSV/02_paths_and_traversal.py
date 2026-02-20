@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：Path 基础、遍历、stat 元数据。
+Author: Lambert
 """
 
 from __future__ import annotations

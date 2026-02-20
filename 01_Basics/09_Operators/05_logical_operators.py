@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：逻辑运算符（Logical Operators）
+Author: Lambert
 
 你会学到：
 1) `and / or / not` 的真值逻辑与短路（short-circuit）

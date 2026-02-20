@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：竞态反例 + Lock 修复。
+Author: Lambert
 """
 
 from __future__ import annotations

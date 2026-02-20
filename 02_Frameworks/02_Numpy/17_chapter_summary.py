@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 17：numpy 本章总结。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/17_chapter_summary.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 13：包入口与模块重载。
+Author: Lambert
 
 - `python -m package.module`：以模块路径运行（常用于包内脚本）
 - `__main__.py`：让 `python -m package` 直接运行包

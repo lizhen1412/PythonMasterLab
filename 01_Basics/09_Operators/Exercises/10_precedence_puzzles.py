@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 10：运算符优先级小测
+Author: Lambert
 
 题目：
 先不要运行，先手算下面表达式的结果：
@@ -56,4 +57,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：运算符——本章总结
+Author: Lambert
 
 运行（在仓库根目录执行）：
     python3 01_Basics/09_Operators/09_chapter_summary.py

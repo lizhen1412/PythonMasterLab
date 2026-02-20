@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 04: hashlib basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/31_Network_Security/04_hashlib_basics.py

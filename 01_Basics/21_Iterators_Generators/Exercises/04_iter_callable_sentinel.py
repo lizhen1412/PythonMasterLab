@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：iter(callable, sentinel)。
+Author: Lambert
 
 题目：
 实现函数 `read_until_sentinel(values, sentinel)`：

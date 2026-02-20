@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 11：猜数字（while + break + continue + while-else）
+Author: Lambert
 
 题目：
 实现 `play(secret, guesses, max_attempts=5)`，规则：
@@ -53,4 +54,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

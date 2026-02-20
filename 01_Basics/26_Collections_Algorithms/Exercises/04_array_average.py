@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 04: Average from array.
+Author: Lambert
 
 Task:
 Implement average(nums) -> float using array('d').

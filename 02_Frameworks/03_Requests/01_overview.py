@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 01：requests 2.32.3 学习索引。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 02_Frameworks/03_Requests/01_overview.py
@@ -41,6 +42,7 @@ TOPICS: list[tuple[str, str]] = [
     ("26_dns_and_connection_reuse.py", "DNS 缓存与连接复用原理"),
     ("27_asyncio_integration.py", "在 AsyncIO 中使用 requests"),
     ("28_advanced_summary.py", "进阶内容总结"),
+    ("Exercises/01_overview.py", "练习索引"),
 ]
 
 

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：浅拷贝 vs 深拷贝（嵌套结构共享问题）
+Author: Lambert
 
 题目：
 实现 `copy_sharing_flags()`，要求：
@@ -45,4 +46,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

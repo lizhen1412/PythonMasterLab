@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 44：小项目——从 CSV 到报表。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/44_mini_project_sales.py

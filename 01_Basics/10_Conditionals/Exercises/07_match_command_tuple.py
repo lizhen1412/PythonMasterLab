@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 07：match（解析命令元组）
+Author: Lambert
 
 题目：
 实现 `eval_command(cmd)`，支持：
@@ -58,4 +59,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

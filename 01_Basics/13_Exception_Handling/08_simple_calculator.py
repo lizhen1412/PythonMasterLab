@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：简单计算器（不使用 eval）
+Author: Lambert
 
 支持运算符：
     +  -  *  /  //  %  **
@@ -131,4 +132,3 @@ def main(argv: list[str] | None = None) -> None:
 
 if __name__ == "__main__":
     main()
-

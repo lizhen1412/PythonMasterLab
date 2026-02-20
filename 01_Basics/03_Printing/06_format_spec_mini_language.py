@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：格式化规格（format spec mini-language）——一行打印更整齐。
+Author: Lambert
 
 你会学到：
 1) 宽度/对齐：`{name:<10}`、`{score:>6.2f}`
@@ -37,4 +38,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

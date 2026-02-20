@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 07：islice 实现分块。
+Author: Lambert
 
 题目：
 实现函数 `chunked(items, size)`：

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 14：映射与集合方法全覆盖（dict / set / frozenset）。
+Author: Lambert
 
 你会学到：
 1) dict 的全部常用方法

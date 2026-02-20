@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：itertools.groupby。
+Author: Lambert
 
 你会学到：
 1) groupby 只分“相邻的相同 key”

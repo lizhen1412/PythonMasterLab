@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：str.format / format_map（旧但仍常见，必须能看懂）。
+Author: Lambert
 
 你会学到：
 1) 位置参数：`"{0} {1}".format(a, b)`
@@ -48,4 +49,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

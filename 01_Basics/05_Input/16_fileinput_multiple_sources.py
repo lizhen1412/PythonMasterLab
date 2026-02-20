@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 16：多来源输入（fileinput）。
+Author: Lambert
 
 你会学到：
 1) fileinput 统一处理：文件列表 + stdin

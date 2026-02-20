@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：查看/修改 sys.path。
+Author: Lambert
 
 要求：
 - 打印前几项 sys.path，理解搜索顺序

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 07：re-raise 与 from None 的对比（__cause__/__context__）
+Author: Lambert
 
 题目：
 实现 2 个函数：
@@ -57,4 +58,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

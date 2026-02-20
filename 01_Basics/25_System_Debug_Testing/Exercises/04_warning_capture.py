@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 04: Capture warnings.
+Author: Lambert
 
 Task:
 Implement count_warnings(func) -> int using warnings.catch_warnings.

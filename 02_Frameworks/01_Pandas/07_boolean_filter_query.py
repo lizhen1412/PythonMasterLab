@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：条件过滤与 query。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/07_boolean_filter_query.py

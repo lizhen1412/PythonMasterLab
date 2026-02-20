@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 04: ExitStack closes resources.
+Author: Lambert
 
 Task:
 Implement collect_texts(texts) -> tuple[list[str], list[bool]].

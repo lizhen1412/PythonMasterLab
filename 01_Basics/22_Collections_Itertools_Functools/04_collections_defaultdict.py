@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：collections.defaultdict。
+Author: Lambert
 
 你会学到：
 1) defaultdict(list) 用于分组

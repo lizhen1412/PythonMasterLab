@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：自定义迭代器类。
+Author: Lambert
 
 你会学到：
 1) __iter__ 返回 self

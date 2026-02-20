@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 22：原始请求体与自定义 Content-Type。
+Author: Lambert
 
 要点：
 - data 参数：发送字符串/字节作为请求体

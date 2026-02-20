@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：while 的补充模式（do-while / := / 迭代器驱动）
+Author: Lambert
 
 你会学到：
 1) do-while：Python 没有 do-while，可用 while True + break 保证至少执行一次

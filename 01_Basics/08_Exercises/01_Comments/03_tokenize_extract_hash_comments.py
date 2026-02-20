@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：用 tokenize 提取 # 注释
+Author: Lambert
 
 题目：
 实现 `extract_hash_comments(source: str) -> list[str]`，要求：
@@ -47,4 +48,3 @@ x = "# not a comment"  # inline
 
 if __name__ == "__main__":
     main()
-

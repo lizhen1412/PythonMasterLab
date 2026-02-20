@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：格式化规格（金额/百分比/对齐）
+Author: Lambert
 
 题目：
 实现下面两个函数：
@@ -37,4 +38,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

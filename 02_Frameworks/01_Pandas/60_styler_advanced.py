@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 60：Styler 样式进阶。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/60_styler_advanced.py

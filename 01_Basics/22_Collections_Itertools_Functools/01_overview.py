@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 01：Python 3.11+ collections / itertools / functools 示例索引。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 01_Basics/22_Collections_Itertools_Functools/01_overview.py

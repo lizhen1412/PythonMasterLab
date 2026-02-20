@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：dataclass 基础用法。
+Author: Lambert
 
 你会学到：
 1) 自动生成 __init__/__repr__/__eq__

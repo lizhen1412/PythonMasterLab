@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 01：综合练习（Exercises）索引。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 01_Basics/08_Exercises/01_overview.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 05: Manager shared dict.
+Author: Lambert
 
 Run:
     python3 01_Basics/30_Multiprocessing_Contextvars/05_manager_shared_dict.py

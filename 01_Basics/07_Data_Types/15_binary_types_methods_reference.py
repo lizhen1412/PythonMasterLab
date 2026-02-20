@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 15：二进制类型方法全覆盖（bytes / bytearray / memoryview）。
+Author: Lambert
 
 你会学到：
 1) bytes/bytearray 的字符串风格方法

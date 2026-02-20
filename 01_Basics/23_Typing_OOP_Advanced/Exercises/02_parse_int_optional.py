@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 02: Optional return for parsing.
+Author: Lambert
 
 Task:
 Implement parse_int(text) -> int | None.

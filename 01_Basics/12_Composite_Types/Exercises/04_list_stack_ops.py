@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：用 list 实现“栈”（stack）
+Author: Lambert
 
 题目：
 用一个 Python list 实现栈的 3 个基本操作：

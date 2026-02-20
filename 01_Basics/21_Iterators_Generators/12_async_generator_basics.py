@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：异步生成器基础。
+Author: Lambert
 
 你会学到：
 1) async def + yield 定义异步生成器

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 08：小项目——记账 CSV 报表
+Author: Lambert
 
 输入格式（每行一条记录；允许空行与 # 注释行）：
     YYYY-MM-DD,category,amount,note

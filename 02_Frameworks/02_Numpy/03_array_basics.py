@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：数组创建与基础属性。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/03_array_basics.py

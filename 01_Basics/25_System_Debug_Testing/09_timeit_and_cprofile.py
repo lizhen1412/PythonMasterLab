@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 09: timeit and cProfile basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/25_System_Debug_Testing/09_timeit_and_cprofile.py

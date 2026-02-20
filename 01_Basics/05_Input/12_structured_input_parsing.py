@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：结构化输入（把一行字符串解析成 list/dict 等结构）。
+Author: Lambert
 
 你会学到：
 1) JSON：`json.loads(text)`（最常见：接口、配置、日志）
@@ -61,4 +62,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

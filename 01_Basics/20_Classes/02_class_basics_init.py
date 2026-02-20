@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：class 与 __init__（实例、属性、方法）。
+Author: Lambert
 
 你会学到：
 1) class 定义与实例化

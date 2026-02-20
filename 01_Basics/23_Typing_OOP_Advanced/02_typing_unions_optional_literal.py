@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 02: Union / Optional / Literal basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/23_Typing_OOP_Advanced/02_typing_unions_optional_literal.py

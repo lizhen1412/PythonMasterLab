@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：严格解析 int（自定义错误信息 + 异常链）
+Author: Lambert
 
 题目：
 实现函数 `parse_int_strict(text)`：
@@ -58,4 +59,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

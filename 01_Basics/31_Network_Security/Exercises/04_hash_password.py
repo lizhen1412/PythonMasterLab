@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 04: Compute sha256.
+Author: Lambert
 
 Task:
 Implement sha256_hex(text) -> str.

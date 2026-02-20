@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：itertools 组合类工具。
+Author: Lambert
 
 你会学到：
 1) product：笛卡尔积

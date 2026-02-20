@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：列表 list 的创建方式
+Author: Lambert
 
 你会学到：
 1) 字面量：[]
@@ -53,4 +54,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

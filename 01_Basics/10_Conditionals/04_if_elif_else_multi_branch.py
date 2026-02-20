@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：多分支 if/elif/else（Multi-branch）
+Author: Lambert
 
 你会学到：
 1) `elif`：按顺序匹配，命中第一个就停止（后面的不会再判断）
@@ -57,4 +58,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

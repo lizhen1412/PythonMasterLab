@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 06: Small unittest example.
+Author: Lambert
 
 Task:
 Implement is_even(n) and test it with unittest.

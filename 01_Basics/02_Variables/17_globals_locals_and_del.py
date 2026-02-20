@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 17：globals()/locals() 与 del（删除“名字绑定”）。
+Author: Lambert
 
 你会学到：
 1) `globals()`：当前模块的全局名字表（dict）
@@ -45,4 +46,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

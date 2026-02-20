@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 10：CSV 读写（StringIO）。
+Author: Lambert
 
 题目：
 实现两个函数：

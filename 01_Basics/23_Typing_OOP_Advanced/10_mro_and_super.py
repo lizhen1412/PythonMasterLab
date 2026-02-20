@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 10: MRO and cooperative super().
+Author: Lambert
 
 Run:
     python3 01_Basics/23_Typing_OOP_Advanced/10_mro_and_super.py

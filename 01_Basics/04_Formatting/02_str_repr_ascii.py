@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：str / repr / ascii ——“打印给谁看”的第一原则。
+Author: Lambert
 
 你会学到：
 1) `str(obj)`：面向用户/界面的可读文本（print 默认用它）
@@ -53,4 +54,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

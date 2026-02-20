@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 16：描述符协议与模式匹配（__get__/__set__/__delete__/__match_args__）。
+Author: Lambert
 
 你会学到：
 1) 描述符：把校验逻辑封装在字段上

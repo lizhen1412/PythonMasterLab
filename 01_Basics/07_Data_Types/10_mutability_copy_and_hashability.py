@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：可变性 / 拷贝 / 可哈希性（理解“为什么 list 不能当 dict key”）。
+Author: Lambert
 
 你会学到：
 1) 可变对象的别名问题：`b = a` 不是复制

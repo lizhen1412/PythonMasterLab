@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：自建线程池 + run_in_executor 提交多任务，限制并发。
+Author: Lambert
 """
 
 from __future__ import annotations

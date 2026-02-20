@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：AST 中看不到普通注释；docstring/type_comment 是例外。
+Author: Lambert
 
 说明：
 1) 普通 `# ...` 注释不会进入 AST。

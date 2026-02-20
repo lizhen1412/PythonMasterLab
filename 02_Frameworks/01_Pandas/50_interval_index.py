@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 50：IntervalIndex（区间索引）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/50_interval_index.py

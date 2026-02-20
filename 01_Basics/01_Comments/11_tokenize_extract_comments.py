@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 11：用 tokenize 从源码中提取注释。
+Author: Lambert
 
 对比：
 - 运行时对象/AST 通常“看不到”普通注释。

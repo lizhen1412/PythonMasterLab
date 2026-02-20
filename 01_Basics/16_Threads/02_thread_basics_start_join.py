@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：线程基础 - 创建/start/join、daemon、name/ident、join 超时。
+Author: Lambert
 """
 
 from __future__ import annotations

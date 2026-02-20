@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 15：变量相关的常见坑（Pitfalls）。
+Author: Lambert
 
 这类“坑”通常不会让代码立刻报错，但会产生非常隐蔽的 bug。
 
@@ -72,4 +73,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

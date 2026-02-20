@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 13：序列方法全覆盖（list / tuple / range）。
+Author: Lambert
 
 你会学到：
 1) list 的全部常用方法

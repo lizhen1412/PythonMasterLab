@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 09：读取带 BOM 的 CSV，并写回标准 UTF-8。
+Author: Lambert
 """
 
 from __future__ import annotations

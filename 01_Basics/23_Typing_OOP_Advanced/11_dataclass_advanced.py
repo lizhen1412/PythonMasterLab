@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 11: Advanced dataclass options.
+Author: Lambert
 
 Run:
     python3 01_Basics/23_Typing_OOP_Advanced/11_dataclass_advanced.py

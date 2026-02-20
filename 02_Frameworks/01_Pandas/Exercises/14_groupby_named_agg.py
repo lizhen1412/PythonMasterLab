@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 14：命名聚合（groupby.agg）。
+Author: Lambert
 
 题目：
 按部门分组，计算总分 total 与平均分 avg。

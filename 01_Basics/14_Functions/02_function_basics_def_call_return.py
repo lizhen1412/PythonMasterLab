@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：函数定义/调用/返回值，docstring 与类型注解。
+Author: Lambert
 
 - 定义：`def name(params) -> return_type: ...`
 - 调用：位置/关键字实参；未显式 return 默认 `None`

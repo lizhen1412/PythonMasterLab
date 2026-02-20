@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：线程池多任务，处理异常与超时。
+Author: Lambert
 """
 
 from __future__ import annotations

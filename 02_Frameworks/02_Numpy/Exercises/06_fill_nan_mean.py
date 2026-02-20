@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：NaN 均值填充。
+Author: Lambert
 
 题目：
 给定包含 NaN 的数组，用非 NaN 均值填充。

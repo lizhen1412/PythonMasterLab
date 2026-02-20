@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：打印到文件/缓冲区（仍然是一行输出多个内容）
+Author: Lambert
 
 你会学到：
 1) `file=` 参数：输出到任意“类文件对象”
@@ -32,4 +33,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

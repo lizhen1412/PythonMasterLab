@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：while 的容器处理与校验模式（stack/queue/验证循环）
+Author: Lambert
 
 你会学到：
 1) while + 容器真值：常用于“处理到为空”为止

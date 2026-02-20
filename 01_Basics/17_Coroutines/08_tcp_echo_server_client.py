@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：本地 TCP echo server/client（asyncio.start_server / open_connection）。
+Author: Lambert
 
 不访问外网，仅绑定 127.0.0.1 随机端口。
 """

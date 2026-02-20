@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：自定义异常（余额不足）
+Author: Lambert
 
 题目：
 实现函数 `withdraw(balance, amount)`：
@@ -56,4 +57,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

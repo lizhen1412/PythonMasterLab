@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：文本读写模式：逐行/分块/错误处理。
+Author: Lambert
 """
 
 from __future__ import annotations

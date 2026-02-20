@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：编码声明注释（encoding cookie）：`# coding: <encoding>`。
+Author: Lambert
 
 要点：
 1) 这行注释必须位于文件的第 1 行或第 2 行（如果第 1 行是 shebang）。

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 06: Chapter summary.
+Author: Lambert
 
 Run:
     python3 01_Basics/28_Math_Statistics/06_chapter_summary.py

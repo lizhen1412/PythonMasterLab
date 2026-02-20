@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 04: Decimal rounding.
+Author: Lambert
 
 Task:
 Implement round_money(text) -> str to 2 decimal places.

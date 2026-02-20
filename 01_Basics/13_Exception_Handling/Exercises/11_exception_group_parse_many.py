@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 11（进阶）：ExceptionGroup + except*（Python 3.11+）
+Author: Lambert
 
 题目：
 实现函数 `parse_many_ints(values)`：
@@ -51,4 +52,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

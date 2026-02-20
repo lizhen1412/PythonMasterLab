@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：组合数据类型——本章总结
+Author: Lambert
 
 运行（在仓库根目录执行）：
     python3 01_Basics/12_Composite_Types/12_chapter_summary.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：集合 set（去重 + 集合运算）
+Author: Lambert
 
 你会学到：
 1) 创建：set() / {1,2,3}（注意：{} 是空 dict，不是空 set）
@@ -52,4 +53,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

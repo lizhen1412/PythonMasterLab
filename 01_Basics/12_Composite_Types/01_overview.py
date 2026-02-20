@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 01：Python 3.11+ 组合数据类型（Composite Types）相关示例索引。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 01_Basics/12_Composite_Types/01_overview.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：条件分支——双分支 if/else（Two-branch）
+Author: Lambert
 
 你会学到：
 1) `if ... else ...`：二选一
@@ -50,4 +51,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

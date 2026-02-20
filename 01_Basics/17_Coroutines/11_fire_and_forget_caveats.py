@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 11：fire-and-forget 风险，添加回调监控异常。
+Author: Lambert
 """
 
 from __future__ import annotations

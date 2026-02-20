@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 02: Compare after normalization.
+Author: Lambert
 
 Task:
 Implement normalized_equal(a, b) -> bool using NFC.

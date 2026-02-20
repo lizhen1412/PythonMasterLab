@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 25：pandas 本章总结。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/25_chapter_summary.py

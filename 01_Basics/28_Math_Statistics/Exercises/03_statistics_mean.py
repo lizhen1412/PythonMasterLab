@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 03: Mean of list.
+Author: Lambert
 
 Task:
 Implement mean_value(nums) -> float.

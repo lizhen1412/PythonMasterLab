@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：多行输入（直到哨兵 END）。
+Author: Lambert
 
 常见场景：
 - 让用户粘贴一段多行文本（配置、SQL、日志片段、备注等）
@@ -42,4 +43,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

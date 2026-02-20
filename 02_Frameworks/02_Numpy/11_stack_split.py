@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 11：拼接与拆分。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/11_stack_split.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 07：透视表（pivot_table）。
+Author: Lambert
 
 题目：
 给定订单明细（user, product, amount），

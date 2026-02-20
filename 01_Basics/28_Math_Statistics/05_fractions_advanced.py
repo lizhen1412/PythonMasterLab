@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 05: fractions advanced usage.
+Author: Lambert
 
 Run:
     python3 01_Basics/28_Math_Statistics/05_fractions_advanced.py

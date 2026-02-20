@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 12：独热编码（get_dummies）。
+Author: Lambert
 
 题目：
 给定颜色列，生成带前缀的独热编码表。

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 32：时间序列进阶（shift/diff/tz/merge_asof）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/32_time_series_advanced.py

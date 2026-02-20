@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 35：与 NumPy/字典互操作 + 可空类型。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/35_interop_nullable.py

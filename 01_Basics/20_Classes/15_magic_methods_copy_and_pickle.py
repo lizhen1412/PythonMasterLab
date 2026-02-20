@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 15：拷贝与序列化（__copy__/__deepcopy__/__getstate__/__setstate__/__reduce__）。
+Author: Lambert
 
 你会学到：
 1) copy.copy / copy.deepcopy 的自定义行为

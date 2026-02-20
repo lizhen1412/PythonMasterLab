@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 05: HMAC basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/31_Network_Security/05_hmac_basics.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 04: Read config with fallback.
+Author: Lambert
 
 Task:
 Implement get_port(text, section, option, default) -> int.

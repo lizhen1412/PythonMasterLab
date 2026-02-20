@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：itertools 基本积木。
+Author: Lambert
 
 你会学到：
 1) count：无限序列

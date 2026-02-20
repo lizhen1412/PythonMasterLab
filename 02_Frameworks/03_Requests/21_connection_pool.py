@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 21：连接池配置。
+Author: Lambert
 
 要点：
 - HTTPAdapter 控制 requests 的连接池行为

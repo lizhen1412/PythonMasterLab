@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：type/isinstance（bool 是 int 子类）
+Author: Lambert
 
 题目：
 实现 `classify(value)`，要求：
@@ -44,4 +45,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

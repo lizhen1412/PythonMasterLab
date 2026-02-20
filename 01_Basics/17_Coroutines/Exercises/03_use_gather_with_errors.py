@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：gather 处理异常（return_exceptions 对比）。
+Author: Lambert
 """
 
 from __future__ import annotations

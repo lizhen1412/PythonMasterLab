@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 30：重塑与编码（pivot/get_dummies/explode/crosstab）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/30_reshape_encoding.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 01：Python 3.11+ 迭代器与生成器（Iterators & Generators）示例索引。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 01_Basics/21_Iterators_Generators/01_overview.py

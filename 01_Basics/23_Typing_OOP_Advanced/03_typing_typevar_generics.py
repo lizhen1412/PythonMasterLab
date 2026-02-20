@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 03: TypeVar and generics.
+Author: Lambert
 
 Run:
     python3 01_Basics/23_Typing_OOP_Advanced/03_typing_typevar_generics.py

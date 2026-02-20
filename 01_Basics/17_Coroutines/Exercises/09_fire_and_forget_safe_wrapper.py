@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 09：封装 create_task，记录异常/结果。
+Author: Lambert
 """
 
 from __future__ import annotations

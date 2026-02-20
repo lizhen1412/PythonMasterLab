@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：wait_for/asyncio.timeout + to_thread，取消与清理。
+Author: Lambert
 """
 
 from __future__ import annotations

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：工具指令注释（pragma-like comments）。
+Author: Lambert
 
 这些注释对 Python 解释器没有任何意义，但常被各类工具读取，例如：
 - flake8/ruff:  `# noqa`（忽略某行的 lint 报警）

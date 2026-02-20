@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 41：时间序列切片与时间窗口。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/41_time_series_slicing.py

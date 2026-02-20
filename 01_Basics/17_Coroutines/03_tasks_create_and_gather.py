@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：任务创建与 gather/as_completed。
+Author: Lambert
 """
 
 from __future__ import annotations

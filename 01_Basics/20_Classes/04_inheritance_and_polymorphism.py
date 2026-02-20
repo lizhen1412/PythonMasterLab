@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：继承与多态（重写、super、isinstance）。
+Author: Lambert
 
 你会学到：
 1) 子类重写父类方法

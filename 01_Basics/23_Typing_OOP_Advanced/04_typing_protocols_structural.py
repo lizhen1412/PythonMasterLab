@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 04: Protocol and structural typing.
+Author: Lambert
 
 Run:
     python3 01_Basics/23_Typing_OOP_Advanced/04_typing_protocols_structural.py

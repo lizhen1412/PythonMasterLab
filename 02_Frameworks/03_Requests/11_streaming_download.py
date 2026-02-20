@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 11：流式下载与 iter_content。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/03_Requests/11_streaming_download.py

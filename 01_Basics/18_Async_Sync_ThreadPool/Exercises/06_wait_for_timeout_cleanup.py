@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：wait_for 包装 to_thread，超时后清理。
+Author: Lambert
 """
 
 from __future__ import annotations

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 12: Chapter summary.
+Author: Lambert
 
 Run:
     python3 01_Basics/23_Typing_OOP_Advanced/12_chapter_summary.py

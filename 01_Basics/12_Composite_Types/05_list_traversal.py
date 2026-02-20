@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：列表 list 的遍历（for/enumerate/reversed/推导式/安全修改）
+Author: Lambert
 
 你会学到：
 1) for 遍历与 enumerate
@@ -59,4 +60,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

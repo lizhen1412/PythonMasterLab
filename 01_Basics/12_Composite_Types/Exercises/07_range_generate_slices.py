@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 07：range 生成与切片（切片结果仍是 range）
+Author: Lambert
 
 题目：
 实现函数 `slice_range(r, start, stop, step)`：
@@ -47,4 +48,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

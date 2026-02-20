@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 08：Timer 启动后在条件满足前取消。
+Author: Lambert
 """
 
 from __future__ import annotations

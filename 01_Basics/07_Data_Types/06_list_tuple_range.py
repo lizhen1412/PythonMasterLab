@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：序列类型（list / tuple / range）。
+Author: Lambert
 
 你会学到：
 1) list：可变序列（append/extend/insert/pop/sort）
@@ -57,4 +58,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

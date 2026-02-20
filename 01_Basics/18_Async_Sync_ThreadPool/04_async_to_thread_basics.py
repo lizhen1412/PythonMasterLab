@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：async 中用 asyncio.to_thread 包装阻塞函数。
+Author: Lambert
 """
 
 from __future__ import annotations

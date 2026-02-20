@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 10: Chapter summary.
+Author: Lambert
 
 Run:
     python3 01_Basics/25_System_Debug_Testing/10_chapter_summary.py

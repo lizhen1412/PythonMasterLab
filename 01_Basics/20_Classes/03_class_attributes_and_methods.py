@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：类属性/实例属性、classmethod/staticmethod、@property。
+Author: Lambert
 
 你会学到：
 1) 类属性与实例属性的差异（共享 vs 每个实例独有）

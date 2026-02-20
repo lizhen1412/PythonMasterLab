@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：a += ... vs a = a + ...（别名与可变性）
+Author: Lambert
 
 题目：
 写一个小实验，回答下面问题并用代码验证：
@@ -56,4 +57,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

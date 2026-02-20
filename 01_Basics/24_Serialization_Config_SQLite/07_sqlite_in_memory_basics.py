@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 07: sqlite3 in-memory basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/24_Serialization_Config_SQLite/07_sqlite_in_memory_basics.py

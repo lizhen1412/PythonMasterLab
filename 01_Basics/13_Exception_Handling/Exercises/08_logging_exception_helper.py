@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 08：用 logging.exception 记录错误并返回默认值
+Author: Lambert
 
 题目：
 实现函数 `run_with_logging(fn, default=None)`：
@@ -45,4 +46,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

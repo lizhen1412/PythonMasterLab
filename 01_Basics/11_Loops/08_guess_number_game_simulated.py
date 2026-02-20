@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：while 综合示例——猜数字（模拟输入，不阻塞终端）
+Author: Lambert
 
 你会学到：
 1) `while` + “次数限制”模式（最多尝试 N 次）
@@ -52,4 +53,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

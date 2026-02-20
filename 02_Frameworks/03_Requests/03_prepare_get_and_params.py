@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：构建 GET/参数/头，不发送。
+Author: Lambert
 
 要点：
 - 使用 requests.Request 构建请求，再用 Session.prepare_request 生成 PreparedRequest

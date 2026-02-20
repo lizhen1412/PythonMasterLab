@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：变量是什么？——名字绑定对象（name binding）
+Author: Lambert
 
 很多语言里，“变量”更像一个能装值的盒子；但在 Python 里更准确的理解是：
 
@@ -66,4 +67,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

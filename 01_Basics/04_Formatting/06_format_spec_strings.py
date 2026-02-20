@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：格式化规格——字符串（str）。
+Author: Lambert
 
 你会学到：
 1) 宽度/对齐：`<`/`>`/`^`
@@ -44,4 +45,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

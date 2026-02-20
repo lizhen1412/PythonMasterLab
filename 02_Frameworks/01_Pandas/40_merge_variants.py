@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 40：merge 细节（left_on/right_on/suffixes/indicator/validate）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/40_merge_variants.py

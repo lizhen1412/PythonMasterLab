@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 08: sqlite3 row_factory and parameterized queries.
+Author: Lambert
 
 Run:
     python3 01_Basics/24_Serialization_Config_SQLite/08_sqlite_row_factory_and_params.py

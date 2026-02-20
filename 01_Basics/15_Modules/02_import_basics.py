@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：模块导入基础。
+Author: Lambert
 
 - `import module` / `import module as alias`
 - `from module import name` / `from module import name as alias`

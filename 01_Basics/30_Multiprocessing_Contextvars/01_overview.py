@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 01: Multiprocessing and Contextvars index.
+Author: Lambert
 
 Run:
     python3 01_Basics/30_Multiprocessing_Contextvars/01_overview.py

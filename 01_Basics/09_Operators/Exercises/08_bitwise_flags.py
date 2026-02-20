@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 08：flags（位标志）
+Author: Lambert
 
 题目：
 用位运算实现一套“权限 flags”，并实现三个函数：
@@ -59,4 +60,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

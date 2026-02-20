@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：条件判断——本章总结
+Author: Lambert
 
 运行（在仓库根目录执行）：
     python3 01_Basics/10_Conditionals/09_chapter_summary.py

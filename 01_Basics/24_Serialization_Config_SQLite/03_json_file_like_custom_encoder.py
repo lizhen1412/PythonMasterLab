@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 03: File-like JSON and custom encoder.
+Author: Lambert
 
 Run:
     python3 01_Basics/24_Serialization_Config_SQLite/03_json_file_like_custom_encoder.py

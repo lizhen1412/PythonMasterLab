@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 08：match（序列模式：pair / head-tail）
+Author: Lambert
 
 题目：
 实现 `describe_sequence(obj)`，规则：
@@ -54,4 +55,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

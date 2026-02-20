@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 07: TypeGuard and Self.
+Author: Lambert
 
 Run:
     python3 01_Basics/23_Typing_OOP_Advanced/07_typing_typeguard_self.py

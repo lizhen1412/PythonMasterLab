@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：自定义倒计时迭代器。
+Author: Lambert
 
 题目：
 实现类 `Countdown(start)`：

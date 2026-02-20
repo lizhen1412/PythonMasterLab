@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：序列（Sequence）通用操作
+Author: Lambert
 
 本例用 list/tuple/range/str 演示序列的共通能力：
 1) 索引与负索引
@@ -61,4 +62,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

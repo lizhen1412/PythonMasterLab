@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 09：成员运算符 in（dict 的 in 检查 key）
+Author: Lambert
 
 题目：
 实现两个函数：
@@ -42,4 +43,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

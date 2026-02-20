@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 26：DNS 与连接复用原理。
+Author: Lambert
 
 要点：
 - requests 默认使用 urllib3 的连接池

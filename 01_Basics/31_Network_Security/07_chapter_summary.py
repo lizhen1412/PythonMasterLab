@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 07: Chapter summary.
+Author: Lambert
 
 Run:
     python3 01_Basics/31_Network_Security/07_chapter_summary.py

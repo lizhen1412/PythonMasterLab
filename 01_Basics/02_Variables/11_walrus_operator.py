@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 11：海象运算符（:=，assignment expression）。
+Author: Lambert
 
 它的作用是：在表达式内部“顺便把值绑定给一个名字”，减少重复计算/重复调用。
 

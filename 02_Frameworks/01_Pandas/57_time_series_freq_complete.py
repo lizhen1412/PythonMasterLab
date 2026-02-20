@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 57：时间序列频率与 asfreq。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/57_time_series_freq_complete.py

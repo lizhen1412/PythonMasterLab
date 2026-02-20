@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 03: bisect and insort.
+Author: Lambert
 
 Run:
     python3 01_Basics/26_Collections_Algorithms/03_bisect_basics.py

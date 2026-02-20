@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 07: collections.abc basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/26_Collections_Algorithms/07_collections_abc_basics.py

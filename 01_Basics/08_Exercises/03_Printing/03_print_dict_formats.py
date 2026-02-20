@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：把 dict 打印成 k=v / JSON / querystring（稳定顺序）
+Author: Lambert
 
 题目：
 实现以下三个函数：
@@ -48,4 +49,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

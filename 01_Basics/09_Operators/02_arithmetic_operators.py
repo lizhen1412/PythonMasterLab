@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：算术运算符（Arithmetic Operators）
+Author: Lambert
 
 你会学到：
 1) `+ - * / // % **` 的基本行为（含一元 + / -）

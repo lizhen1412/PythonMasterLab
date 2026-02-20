@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：`*args/**kwargs` 与解包。
+Author: Lambert
 
 - 收集变长参数：`def func(*args, **kwargs): ...`
 - 解包调用：`func(*seq, **mapping)`

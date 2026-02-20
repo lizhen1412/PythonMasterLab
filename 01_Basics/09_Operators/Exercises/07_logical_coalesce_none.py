@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 07：实现 None 合并（避免 x or default 的坑）
+Author: Lambert
 
 题目：
 实现 `coalesce_none(value, default)`，要求：
@@ -37,4 +38,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

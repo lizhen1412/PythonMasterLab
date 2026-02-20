@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：异常处理——本章总结
+Author: Lambert
 
 运行（在仓库根目录执行）：
     python3 01_Basics/13_Exception_Handling/09_chapter_summary.py
@@ -30,4 +31,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

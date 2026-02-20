@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：赋值目标（assignment targets）。
+Author: Lambert
 
 你会学到：
 1) 赋值不只是 `x = ...`，还可以写到：
@@ -55,4 +56,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

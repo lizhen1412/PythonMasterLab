@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 38：SettingWithCopy 与安全赋值。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/38_settingwithcopy.py

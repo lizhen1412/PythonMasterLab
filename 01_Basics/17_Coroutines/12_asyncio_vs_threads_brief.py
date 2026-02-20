@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：协程 vs 线程选择指南（简述）。
+Author: Lambert
 """
 
 from __future__ import annotations

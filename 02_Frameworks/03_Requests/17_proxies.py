@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 17：代理（Proxies）配置。
+Author: Lambert
 
 要点：
 - 使用 proxies 参数设置 HTTP/HTTPS 代理

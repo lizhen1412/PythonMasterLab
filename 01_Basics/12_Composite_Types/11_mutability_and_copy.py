@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 11：可变 vs 不可变（别名、浅拷贝/深拷贝、嵌套陷阱）
+Author: Lambert
 
 你会学到：
 1) b = a 不是复制（只是同一个对象的别名）
@@ -55,4 +56,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

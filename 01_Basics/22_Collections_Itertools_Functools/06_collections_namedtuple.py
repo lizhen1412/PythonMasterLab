@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：collections.namedtuple。
+Author: Lambert
 
 你会学到：
 1) namedtuple 创建轻量记录类型

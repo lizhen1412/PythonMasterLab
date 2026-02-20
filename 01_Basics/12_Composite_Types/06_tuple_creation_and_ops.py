@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：元组 tuple 的创建与常用操作
+Author: Lambert
 
 你会学到：
 1) 创建：()、(1,)、tuple(iterable)、打包/解包

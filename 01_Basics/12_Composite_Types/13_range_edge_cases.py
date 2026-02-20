@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 13：range 的边界与易错点（空区间/负步长/切片/相等比较）
+Author: Lambert
 
 你会学到：
 1) 空 range 的判断与 len 行为

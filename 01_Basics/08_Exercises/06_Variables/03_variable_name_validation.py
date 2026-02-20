@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：变量名合法性与常见命名坑
+Author: Lambert
 
 题目：
 实现 `is_good_variable_name(name)`，要求：
@@ -45,4 +46,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：range（整数序列对象）
+Author: Lambert
 
 你会学到：
 1) range 的三种写法：range(stop) / range(start, stop) / range(start, stop, step)
@@ -41,4 +42,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：async 生产 + 线程池消费阻塞任务，哨兵退出。
+Author: Lambert
 """
 
 from __future__ import annotations

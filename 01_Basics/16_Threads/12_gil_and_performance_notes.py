@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：GIL 与性能：I/O vs CPU。
+Author: Lambert
 """
 
 from __future__ import annotations

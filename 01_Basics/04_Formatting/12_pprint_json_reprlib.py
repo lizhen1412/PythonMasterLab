@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：结构化输出（更像“专业日志/调试输出”）。
+Author: Lambert
 
 你会学到：
 1) `pprint.pformat`：把复杂结构格式化成多行可读文本
@@ -42,4 +43,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

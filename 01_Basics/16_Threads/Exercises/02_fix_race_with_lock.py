@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：修复计数竞态，使用 Lock。
+Author: Lambert
 """
 
 from __future__ import annotations

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：None 与真值测试（只把 None 当缺失值）
+Author: Lambert
 
 题目：
 实现 `coalesce(value, default)`，要求：
@@ -35,4 +36,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

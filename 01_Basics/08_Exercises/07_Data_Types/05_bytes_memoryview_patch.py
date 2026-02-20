@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：bytes/bytearray/memoryview（原地修改缓冲区）
+Author: Lambert
 
 题目：
 实现 `patch_bytearray(data)`，要求：
@@ -38,4 +39,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

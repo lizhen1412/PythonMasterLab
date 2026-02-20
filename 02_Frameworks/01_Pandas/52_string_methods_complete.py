@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 52：字符串方法完整版。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/52_string_methods_complete.py

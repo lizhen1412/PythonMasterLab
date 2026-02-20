@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习索引：循环（Loops）章节练习（每题一个文件）。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 01_Basics/11_Loops/Exercises/01_overview.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 25：Response.raw 底层流访问。
+Author: Lambert
 
 要点：
 - response.raw：访问 urllib3 的原始响应流

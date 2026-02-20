@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：tempfile、临时写后替换（安全写入模式）。
+Author: Lambert
 """
 
 from __future__ import annotations

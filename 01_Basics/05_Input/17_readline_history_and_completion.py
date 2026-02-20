@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 17：readline 行编辑与历史（可选平台功能）。
+Author: Lambert
 
 你会学到：
 1) readline.add_history / get_history_item

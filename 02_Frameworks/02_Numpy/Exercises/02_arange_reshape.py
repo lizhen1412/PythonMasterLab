@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：arange + reshape。
+Author: Lambert
 
 题目：
 生成 1 到 12 的数组，并 reshape 为 3x4。

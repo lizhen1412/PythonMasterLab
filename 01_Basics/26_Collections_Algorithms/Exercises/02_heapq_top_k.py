@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 02: Top-k using heapq.
+Author: Lambert
 
 Task:
 Implement top_k(nums, k) -> list[int].

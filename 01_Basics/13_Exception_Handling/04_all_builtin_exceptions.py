@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：全部（内置）异常类一览（builtins）
+Author: Lambert
 
 说明：
 - Python 的异常类很多，“全部列举”最可靠的方式是：从 `builtins` 里扫描所有 `BaseException` 的子类
@@ -61,4 +62,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

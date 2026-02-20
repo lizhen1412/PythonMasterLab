@@ -98,13 +98,37 @@
 
 ---
 
-## 5) 学习路径建议
+## 5) 本章练习
+
+练习索引：`python3 02_Frameworks/03_Requests/Exercises/01_overview.py`
+
+### 基础练习 (02-09)
+- `02_get_with_params.py`：GET 请求带查询参数
+- `03_post_json.py`：POST JSON 数据
+- `04_headers_auth.py`：自定义头和 Basic Auth
+- `05_error_handling.py`：错误处理和状态码检查
+- `06_session_retry.py`：Session 和重试策略
+- `07_file_download.py`：文件下载（流式）
+- `08_file_upload.py`：文件上传
+- `09_cookie_jar.py`：Cookie 持久化
+
+### 进阶练习 (10-13)
+- `10_rest_client.py`：REST API 客户端
+- `11_proxy_config.py`：代理配置
+- `12_timeout_retry.py`：超时和重试进阶
+- `13_async_requests.py`：AsyncIO 集成
+
+---
+
+## 6) 学习路径建议
 
 1. **基础入门** (02-15)：从安装开始，依次学习 GET/POST、响应处理、异常、Session、重定向、流式下载、文件上传、认证和重试。
 
 2. **进阶提升** (16-28)：学习完整的 HTTP 方法、代理、SSL、高级认证、事件钩子、连接池优化、URL 编码、Cookie 持久化、底层流访问和 AsyncIO 集成。
 
-3. **实践建议**：
+3. **实践练习** (Exercises 02-13)：通过 12 个实战练习巩固所学知识，涵盖 GET/POST、认证、Session、文件操作、代理、AsyncIO 等场景。
+
+4. **实践建议**：
    - 每个示例都可直接运行，建议按顺序学习
    - 结合 httpbin.org 观察请求/响应细节
    - 务必使用 Session 复用连接提升性能

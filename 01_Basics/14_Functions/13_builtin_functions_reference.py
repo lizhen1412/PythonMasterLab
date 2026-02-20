@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 13：内置函数全覆盖（Built-in Functions Reference）
+Author: Lambert
 
 你会学到：
 1) 所有内置函数的分类与最小可运行示例

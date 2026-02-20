@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：cache / lru_cache。
+Author: Lambert
 
 你会学到：
 1) cache：无限容量的记忆化

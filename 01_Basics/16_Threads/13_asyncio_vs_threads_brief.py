@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 13：线程 vs asyncio 选择指南（简述）。
+Author: Lambert
 
 本示例以打印对比为主，不包含 asyncio 代码细节。
 """

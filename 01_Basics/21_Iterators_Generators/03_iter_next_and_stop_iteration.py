@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：手动迭代与 StopIteration。
+Author: Lambert
 
 你会学到：
 1) next() 在耗尽时抛 StopIteration

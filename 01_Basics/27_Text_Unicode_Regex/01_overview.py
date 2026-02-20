@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 01: Text, Unicode, and Regex index.
+Author: Lambert
 
 Run:
     python3 01_Basics/27_Text_Unicode_Regex/01_overview.py

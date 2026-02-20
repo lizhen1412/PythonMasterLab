@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 29：索引对齐与重建（reindex/align/sort_index）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/29_index_align_reindex.py

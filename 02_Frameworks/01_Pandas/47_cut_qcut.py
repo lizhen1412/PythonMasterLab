@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 47：分箱 cut/qcut（成绩分档/分位数）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/47_cut_qcut.py

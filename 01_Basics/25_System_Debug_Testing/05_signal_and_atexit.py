@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 05: signal handlers and atexit hooks.
+Author: Lambert
 
 Run:
     python3 01_Basics/25_System_Debug_Testing/05_signal_and_atexit.py

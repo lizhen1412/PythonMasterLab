@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 07: warnings and traceback.
+Author: Lambert
 
 Run:
     python3 01_Basics/25_System_Debug_Testing/07_warnings_and_traceback.py

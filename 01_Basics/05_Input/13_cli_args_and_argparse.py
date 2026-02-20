@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 13：命令行参数输入（sys.argv / argparse）。
+Author: Lambert
 
 你会学到：
 1) sys.argv：原始参数列表

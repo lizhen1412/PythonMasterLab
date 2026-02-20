@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 05: Simplify fraction.
+Author: Lambert
 
 Task:
 Implement simplify(numer, denom) -> str.

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：match 进阶（序列/映射/类模式、as、*star）
+Author: Lambert
 
 你会学到：
 1) 序列模式：`case [x, y]`、`case [head, *tail]`
@@ -76,4 +77,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

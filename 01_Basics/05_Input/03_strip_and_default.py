@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：strip 与默认值（处理“空输入 / 空白输入”）。
+Author: Lambert
 
 你会学到：
 1) `input()` 返回的字符串不会自动去掉空白；常用 `.strip()` 清理前后空白
@@ -37,4 +38,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

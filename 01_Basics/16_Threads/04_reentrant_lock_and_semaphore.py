@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：RLock 与 Semaphore。
+Author: Lambert
 """
 
 from __future__ import annotations

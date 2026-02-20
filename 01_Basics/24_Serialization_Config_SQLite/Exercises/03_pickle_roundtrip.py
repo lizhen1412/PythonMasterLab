@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 03: Pickle roundtrip.
+Author: Lambert
 
 Task:
 Implement roundtrip(obj) -> obj using pickle.dumps/loads.

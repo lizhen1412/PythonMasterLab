@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：反例集合——不要这么做。
+Author: Lambert
 """
 
 from __future__ import annotations

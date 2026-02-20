@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 15：secrets vs random。
+Author: Lambert
 
 - `random` 适合模拟/游戏，不适合安全场景
 - `secrets` 提供密码学安全随机：token_hex、choice

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：成员运算符（Membership Operators）
+Author: Lambert
 
 你会学到：
 1) `in / not in` 的含义：检查“成员关系”

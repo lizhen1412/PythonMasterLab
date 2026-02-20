@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：响应属性（status_code/headers/text/content/json/encoding）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/03_Requests/06_response_attributes.py

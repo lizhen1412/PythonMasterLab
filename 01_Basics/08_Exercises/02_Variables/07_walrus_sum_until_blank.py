@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 07：海象运算符 :=（读取/strip/累加直到空行）
+Author: Lambert
 
 题目：
 实现 `sum_numbers_until_blank(lines)`，要求：
@@ -42,4 +43,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

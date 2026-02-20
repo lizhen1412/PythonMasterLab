@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 06: TypeGuard for list[str].
+Author: Lambert
 
 Task:
 Implement is_str_list(items) -> TypeGuard[list[str]].

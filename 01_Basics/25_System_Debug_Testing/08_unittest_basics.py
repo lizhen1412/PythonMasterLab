@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 08: unittest basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/25_System_Debug_Testing/08_unittest_basics.py

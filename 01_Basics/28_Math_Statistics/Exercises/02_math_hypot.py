@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 02: Distance using math.hypot.
+Author: Lambert
 
 Task:
 Implement distance(x, y) -> float.

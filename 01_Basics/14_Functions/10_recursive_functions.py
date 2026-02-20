@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：递归函数。
+Author: Lambert
 
 - 必须先写“基线” + “收敛步骤”，避免无限递归
 - Python 没有尾递归优化，递归深度受 `sys.getrecursionlimit()` 限制

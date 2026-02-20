@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 03: Build URL with query.
+Author: Lambert
 
 Task:
 Implement build_url(base, params) -> str.

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 02: contextmanager timer.
+Author: Lambert
 
 Task:
 Implement timer() context manager that reports elapsed seconds.

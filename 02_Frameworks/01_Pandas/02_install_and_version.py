@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：安装与版本检查（pandas 2.3.3）。
+Author: Lambert
 
 运行（在仓库根目录执行）：
     python3 02_Frameworks/01_Pandas/02_install_and_version.py

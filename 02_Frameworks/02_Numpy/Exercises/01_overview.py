@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习索引：numpy 2.4.0。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 02_Frameworks/02_Numpy/Exercises/01_overview.py
@@ -18,6 +19,14 @@ TOPICS: list[tuple[str, str]] = [
     ("06_fill_nan_mean.py", "NaN 均值填充"),
     ("07_stack_columns.py", "列拼接"),
     ("08_dot_product.py", "向量点积"),
+    # 高级练习 (09-15)
+    ("09_einsum.py", "einsum 矩阵运算"),
+    ("10_fft_filter.py", "FFT 频谱分析"),
+    ("11_outer_product.py", "ufunc.outer 外积"),
+    ("12_qr_decomposition.py", "QR 分解"),
+    ("13_datetime_diff.py", "datetime64 运算"),
+    ("14_accumulate.py", "ufunc.accumulate"),
+    ("15_structured_array.py", "结构化数组"),
 ]
 
 

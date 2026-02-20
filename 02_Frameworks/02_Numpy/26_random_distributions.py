@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 26：随机分布。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/26_random_distributions.py

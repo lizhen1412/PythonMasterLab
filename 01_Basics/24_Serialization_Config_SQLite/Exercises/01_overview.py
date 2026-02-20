@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercises index: Serialization/Config/SQLite.
+Author: Lambert
 
 Run:
     python3 01_Basics/24_Serialization_Config_SQLite/Exercises/01_overview.py

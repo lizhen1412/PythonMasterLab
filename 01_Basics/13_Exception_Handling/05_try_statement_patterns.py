@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：try 语句的各种写法（except/else/finally/except*）
+Author: Lambert
 
 你会学到：
 1) try/except：捕获并处理
@@ -103,4 +104,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

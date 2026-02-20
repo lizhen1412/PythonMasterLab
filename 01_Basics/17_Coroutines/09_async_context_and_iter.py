@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：async with 与 async for。
+Author: Lambert
 """
 
 from __future__ import annotations

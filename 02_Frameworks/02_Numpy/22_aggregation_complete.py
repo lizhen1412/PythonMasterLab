@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 22：聚合函数全集。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/22_aggregation_complete.py

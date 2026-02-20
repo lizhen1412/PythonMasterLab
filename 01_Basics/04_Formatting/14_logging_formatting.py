@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 14：logging 的格式化（工程里更推荐“日志系统”而不是到处 print）。
+Author: Lambert
 
 你会学到：
 1) logging 的 Formatter 决定最终输出格式（时间、级别、消息等）
@@ -38,4 +39,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

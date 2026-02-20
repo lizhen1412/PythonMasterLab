@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：reshape 与转置。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/06_reshape_transpose.py

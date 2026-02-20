@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 03: Encoding/decoding error strategies.
+Author: Lambert
 
 Run:
     python3 01_Basics/27_Text_Unicode_Regex/03_encoding_errors.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：装饰器与 `functools.partial`。
+Author: Lambert
 
 - 最小装饰器：包裹函数前后打印；`functools.wraps` 复制元数据
 - 带参数装饰器：外层接收配置，返回真正装饰器

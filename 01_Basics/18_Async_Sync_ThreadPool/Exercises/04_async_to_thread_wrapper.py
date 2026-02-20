@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：封装 to_thread，限流并记录异常。
+Author: Lambert
 """
 
 from __future__ import annotations

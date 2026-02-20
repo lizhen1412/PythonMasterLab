@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：f-string：一行输出多个变量（推荐方式）
+Author: Lambert
 
 你会学到：
 1) f-string 最直观：`f\"{name} {age}\"`
@@ -37,4 +38,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

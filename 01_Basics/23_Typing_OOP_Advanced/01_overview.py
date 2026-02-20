@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 01: Typing and OOP Advanced index.
+Author: Lambert
 
 Run (from repo root):
     python3 01_Basics/23_Typing_OOP_Advanced/01_overview.py

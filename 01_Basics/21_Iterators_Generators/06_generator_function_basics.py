@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：生成器函数基础。
+Author: Lambert
 
 你会学到：
 1) 使用 yield 定义生成器函数

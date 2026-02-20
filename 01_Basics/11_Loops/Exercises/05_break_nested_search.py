@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：break（嵌套循环查找坐标）
+Author: Lambert
 
 题目：
 实现两个函数：
@@ -57,4 +58,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：namedtuple 表示点。
+Author: Lambert
 
 题目：
 使用 namedtuple 定义 Point(x, y)，实现函数 `distance(p)`：

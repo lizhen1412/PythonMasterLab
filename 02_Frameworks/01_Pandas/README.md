@@ -80,6 +80,19 @@
 - 分箱 cut/qcut（成绩分档/分位数）
 - 日期格式化（dt.strftime）
 - CSV 编码与中文（encoding）
+- **新增**: Extension Types（自定义扩展数组、注册访问器）
+- **新增**: Pandas Testing（assert_frame_equal、assert_series_equal）
+- **新增**: Sparse Arrays（稀疏数组、内存优化）
+- **新增**: Options API（全局选项配置、显示控制）
+- **新增**: Advanced Plotting（高级绘图、子图、样式）
+- **新增**: DataFrame Methods（nlargest/nsmallest/compare/factorize/sample）
+- **新增**: Resample OHLC（金融数据 OHLC 重采样）
+- **新增**: Extended I/O（Feather/Parquet/Stata/SAS/JSONL）
+- **新增**: Grouper Advanced（时间序列分组、多级分组）
+- **新增**: Period Advanced（Period 创建、运算、转换）
+- **新增**: DateTime Components（dt.* 方法和属性完整覆盖）
+- **新增**: API Methods Complete（clip/quantile/rank/mode/median/between）
+- **新增**: Crosstab Advanced（交叉表进阶、margins、normalize）
 
 ---
 
@@ -136,6 +149,21 @@
 | 47 | [`47_cut_qcut.py`](47_cut_qcut.py) | 分箱 cut/qcut |
 | 48 | [`48_datetime_formatting.py`](48_datetime_formatting.py) | 日期格式化 |
 | 49 | [`49_io_csv_encoding.py`](49_io_csv_encoding.py) | CSV 编码与中文 |
+| 50 | [`50_extension_types.py`](50_extension_types.py) | Extension Types - 扩展类型与自定义访问器 |
+| 51 | [`51_pandas_testing.py`](51_pandas_testing.py) | Pandas Testing - 测试工具 |
+| 52 | [`52_sparse_arrays.py`](52_sparse_arrays.py) | Sparse Arrays - 稀疏数组 |
+| 53 | [`53_options_api.py`](53_options_api.py) | Options API - 全局选项配置 |
+| 54 | [`54_plotting_advanced.py`](54_plotting_advanced.py) | Advanced Plotting - 高级绘图 |
+| 55 | [`55_dataframe_methods.py`](55_dataframe_methods.py) | DataFrame Methods - nlargest/nsmallest/compare |
+| 56 | [`56_resample_ohlc.py`](56_resample_ohlc.py) | Resample OHLC - 金融数据重采样 |
+| 57 | [`57_io_formats_extended.py`](57_io_formats_extended.py) | Extended I/O - Feather/Parquet/Stata/SAS/JSONL |
+| 58 | [`58_special_io_formats.py`](58_special_io_formats.py) | Special I/O Formats - HDF5/XML/Clipboard/ExcelWriter |
+| 59 | [`59_complete_methods.py`](59_complete_methods.py) | Complete Methods - corr/cov/rank/pct_change/shift/diff/expanding/explode/get_dummies |
+| 60 | [`60_grouper_advanced.py`](60_grouper_advanced.py) | Grouper Advanced - 时间序列分组、多级分组 |
+| 61 | [`61_period_advanced.py`](61_period_advanced.py) | Period Advanced - Period 创建、运算、转换 |
+| 62 | [`62_datetime_components.py`](62_datetime_components.py) | DateTime Components - dt.* 方法和属性完整覆盖 |
+| 63 | [`63_api_methods_complete.py`](63_api_methods_complete.py) | API Methods Complete - clip/quantile/rank/mode/median/between |
+| 64 | [`64_crosstab_advanced.py`](64_crosstab_advanced.py) | Crosstab Advanced - 交叉表进阶、margins、normalize |
 | 90 | [`90_generate_api_reference.py`](90_generate_api_reference.py) | 生成 API 索引（需 pandas） |
 | 91 | [`91_api_reference.md`](91_api_reference.md) | API 索引输出文件 |
 | 92 | [`Exercises/01_overview.py`](Exercises/01_overview.py) | 练习索引 |
@@ -161,6 +189,14 @@
 - `Exercises/14_groupby_named_agg.py`：命名聚合
 - `Exercises/15_shift_pct_change.py`：shift 与 pct_change
 - `Exercises/16_json_normalize_basic.py`：json_normalize 展开
+- `Exercises/17_grouper_monthly.py`：Grouper 按月分组
+- `Exercises/18_period_conversion.py`：Period 转换
+- `Exercises/19_datetime_filter.py`：DateTime 组件过滤
+- `Exercises/20_clip_outliers.py`：clip 处理异常值
+- `Exercises/21_quantile_binning.py`：quantile 分箱
+- `Exercises/22_crosstab_analysis.py`：crosstab 交叉分析
+- `Exercises/23_sparse_array.py`：稀疏数组
+- `Exercises/24_interval_operations.py`：Interval 操作
 
 ---
 

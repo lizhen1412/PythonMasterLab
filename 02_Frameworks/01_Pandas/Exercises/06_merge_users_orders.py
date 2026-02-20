@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：合并表（merge）。
+Author: Lambert
 
 题目：
 给定 users 与 orders 两张表，合并得到含用户姓名的订单表。

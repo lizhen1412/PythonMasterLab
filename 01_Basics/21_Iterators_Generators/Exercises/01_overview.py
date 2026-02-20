@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习索引：迭代器与生成器。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 01_Basics/21_Iterators_Generators/Exercises/01_overview.py

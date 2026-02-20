@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 08：时间序列重采样（日汇总）。
+Author: Lambert
 
 题目：
 给定带时间索引的 Series，按天 resample 并求和。

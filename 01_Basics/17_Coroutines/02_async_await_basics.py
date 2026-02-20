@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：async/await 基础，asyncio.run、sleep、并发 vs 串行。
+Author: Lambert
 """
 
 from __future__ import annotations

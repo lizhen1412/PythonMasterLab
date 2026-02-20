@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 27：在 AsyncIO 中使用 requests。
+Author: Lambert
 
 要点：
 - requests 是同步库，不能直接在 async 函数中使用

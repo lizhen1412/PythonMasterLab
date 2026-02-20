@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 05: Extract last traceback line.
+Author: Lambert
 
 Task:
 Implement last_traceback_line(func) -> str.

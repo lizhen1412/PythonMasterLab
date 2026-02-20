@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：TaskGroup 并发，失败任务打印日志。
+Author: Lambert
 """
 
 from __future__ import annotations

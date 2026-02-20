@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 06: Callable and ParamSpec.
+Author: Lambert
 
 Run:
     python3 01_Basics/23_Typing_OOP_Advanced/06_typing_callable_paramspec.py

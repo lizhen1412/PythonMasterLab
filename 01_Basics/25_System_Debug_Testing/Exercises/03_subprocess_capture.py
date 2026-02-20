@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 03: Run Python and capture output.
+Author: Lambert
 
 Task:
 Implement run_echo(text) -> str using subprocess.run and sys.executable.

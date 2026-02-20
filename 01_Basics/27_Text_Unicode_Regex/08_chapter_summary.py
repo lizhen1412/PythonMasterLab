@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 08: Chapter summary.
+Author: Lambert
 
 Run:
     python3 01_Basics/27_Text_Unicode_Regex/08_chapter_summary.py

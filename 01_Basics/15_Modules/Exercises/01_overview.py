@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习索引：模块与包（Modules & Packages）章节练习。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 01_Basics/15_Modules/Exercises/01_overview.py

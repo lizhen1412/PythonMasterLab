@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：输入校验与重试（让程序“专业好用”）。
+Author: Lambert
 
 你会学到：
 1) while True + try/except：反复提示直到输入合法
@@ -102,4 +103,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

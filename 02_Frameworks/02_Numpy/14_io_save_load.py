@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 14：保存/读取（内存 I/O）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/14_io_save_load.py

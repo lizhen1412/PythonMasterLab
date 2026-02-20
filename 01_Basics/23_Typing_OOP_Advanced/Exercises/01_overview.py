@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercises index: Typing and OOP Advanced.
+Author: Lambert
 
 Run:
     python3 01_Basics/23_Typing_OOP_Advanced/Exercises/01_overview.py

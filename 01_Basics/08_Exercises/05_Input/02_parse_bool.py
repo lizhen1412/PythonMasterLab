@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：解析 bool（自定义规则）
+Author: Lambert
 
 题目：
 实现 `parse_bool(text)`，要求：
@@ -42,4 +43,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

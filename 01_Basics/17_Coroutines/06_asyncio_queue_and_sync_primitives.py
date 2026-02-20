@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：asyncio 同步原语与 Queue。
+Author: Lambert
 """
 
 from __future__ import annotations

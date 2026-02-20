@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 07：阶乘递归 vs 迭代。
+Author: Lambert
 
 要求：
 - 写两个实现：递归与迭代

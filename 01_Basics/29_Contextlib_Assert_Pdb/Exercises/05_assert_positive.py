@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 05: Assert positive input.
+Author: Lambert
 
 Task:
 Implement assert_positive(x) -> None.

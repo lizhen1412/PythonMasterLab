@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：聚合与 axis。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/08_aggregation_axis.py

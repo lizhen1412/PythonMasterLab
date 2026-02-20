@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 05: Find emails.
+Author: Lambert
 
 Task:
 Implement find_emails(text) -> list[str].

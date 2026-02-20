@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 08：字符串 split/join + 规范化空白
+Author: Lambert
 
 题目：
 实现函数 `normalize_whitespace(text)`：
@@ -41,4 +42,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

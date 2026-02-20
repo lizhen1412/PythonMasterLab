@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 06: logging handlers and filters.
+Author: Lambert
 
 Run:
     python3 01_Basics/25_System_Debug_Testing/06_logging_handlers_and_filters.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 24：形状操作全集。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/24_shape_ops_complete.py

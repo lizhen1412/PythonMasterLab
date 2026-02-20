@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 17：集合类方法参数与边界案例（list/tuple/dict/set）
+Author: Lambert
 
 你会学到：
 1) list/tuple 的 index 支持 start/stop；list.pop 可传索引

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：用 socketpair 做本地 echo。
+Author: Lambert
 
 要求：
 - 使用 socket.socketpair 创建一对套接字

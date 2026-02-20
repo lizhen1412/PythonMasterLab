@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：yield from 委托生成器。
+Author: Lambert
 
 你会学到：
 1) yield from 把迭代过程委托给子生成器

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 01：numpy 2.4.0 学习索引。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 02_Frameworks/02_Numpy/01_overview.py
@@ -27,6 +28,21 @@ TOPICS: list[tuple[str, str]] = [
     ("15_views_copies.py", "视图与拷贝"),
     ("16_vectorize_ufunc.py", "ufunc 与条件处理"),
     ("17_chapter_summary.py", "本章总结"),
+    ("18_fft_basics.py", "FFT - 快速傅里叶变换"),
+    ("19_polynomial.py", "Polynomial - 多项式运算"),
+    ("20_masked_arrays.py", "Masked Arrays - 掩码数组"),
+    ("21_financial.py", "Financial - 金融函数"),
+    ("22_performance_optimization.py", "Performance - 性能优化"),
+    ("23_signal_processing.py", "Signal Processing - 信号处理（convolve/correlate/gradient/trapz）"),
+    ("24_histogram_digitize.py", "Histogram & Digitize - 直方图与分箱"),
+    ("25_memmap.py", "Memmap - 内存映射文件"),
+    ("26_structured_arrays.py", "Structured Arrays - 结构化数组"),
+    ("27_advanced_indexing.py", "Advanced Indexing - 高级索引（ix_/mgrid/ogrid/select）"),
+    ("28_numpy_complete.py", "NumPy Complete - einsum/pad/char/corrcoef/interp/trim_zeros/nanpercentile"),
+    ("29_linalg_advanced.py", "Linear Algebra Advanced - QR/Schur/Cholesky/伪逆/条件数"),
+    ("30_fft_advanced.py", "FFT Advanced - rfft/rfft2/窗函数/零填充"),
+    ("31_ufunc_advanced.py", "Ufunc Advanced - outer/at/reduceat/accumulate/自定义"),
+    ("32_datetime64.py", "DateTime64 - datetime64/timedelta64 完整操作"),
     ("Exercises/01_overview.py", "练习索引"),
 ]
 

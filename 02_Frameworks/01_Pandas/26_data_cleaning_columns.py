@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 26：数据清洗与列操作。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/26_data_cleaning_columns.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：验证 // 与 % 的恒等式（含负数）
+Author: Lambert
 
 题目：
 实现 `check_div_mod(a, b)`，要求：
@@ -55,4 +56,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

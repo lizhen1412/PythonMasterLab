@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：break / continue（以及 loop-else 与嵌套循环退出策略）
+Author: Lambert
 
 你会学到：
 1) break：跳出当前这一层循环（只影响最内层）
@@ -81,4 +82,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

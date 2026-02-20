@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：类型注解（__annotations__ 与 get_type_hints）
+Author: Lambert
 
 题目：
 实现 `get_annotations(obj)`，返回两个 dict：

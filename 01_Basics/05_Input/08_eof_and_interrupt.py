@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：EOFError / KeyboardInterrupt（优雅退出）。
+Author: Lambert
 
 你会学到：
 1) stdin 到 EOF：`input()` 会抛 `EOFError`
@@ -66,4 +67,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

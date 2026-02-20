@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercises index: Collections and Algorithms.
+Author: Lambert
 
 Run:
     python3 01_Basics/26_Collections_Algorithms/Exercises/01_overview.py

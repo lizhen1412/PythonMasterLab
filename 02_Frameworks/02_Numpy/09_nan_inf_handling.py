@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：NaN/Inf 处理。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/09_nan_inf_handling.py

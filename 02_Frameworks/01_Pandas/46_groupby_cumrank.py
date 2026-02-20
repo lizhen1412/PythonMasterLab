@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 46：分组累计与排名（cumsum/cumcount/rank）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/46_groupby_cumrank.py

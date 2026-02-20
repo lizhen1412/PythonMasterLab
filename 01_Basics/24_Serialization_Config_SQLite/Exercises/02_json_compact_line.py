@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 02: Compact JSON line.
+Author: Lambert
 
 Task:
 Implement compact_json_line(data) -> str using json.dumps with compact separators.

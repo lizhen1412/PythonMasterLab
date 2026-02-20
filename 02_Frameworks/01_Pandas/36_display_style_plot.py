@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 36：展示设置与样式（set_option/Styler/plot）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/36_display_style_plot.py

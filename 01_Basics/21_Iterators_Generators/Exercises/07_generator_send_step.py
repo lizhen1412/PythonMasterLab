@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 07：send 改变生成器步长。
+Author: Lambert
 
 题目：
 实现生成器函数 `stepper(start=0, step=1)`：

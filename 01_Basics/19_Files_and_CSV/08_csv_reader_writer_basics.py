@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：csv.reader/writer 基础，newline=""。
+Author: Lambert
 """
 
 from __future__ import annotations

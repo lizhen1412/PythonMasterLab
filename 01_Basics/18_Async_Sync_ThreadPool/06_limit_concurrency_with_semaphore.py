@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：Semaphore + to_thread 限制阻塞调用并发。
+Author: Lambert
 """
 
 from __future__ import annotations

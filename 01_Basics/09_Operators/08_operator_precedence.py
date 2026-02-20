@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：运算符优先级（Operator Precedence）
+Author: Lambert
 
 核心建议：不确定就加括号（可读性 > “背优先级表”）。
 

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：真值测试 + 组合条件（truthiness / and-or-not / in / is / 优先级）
+Author: Lambert
 
 你会学到：
 1) `if x:` 等价于 `if bool(x):`；哪些值是 falsy

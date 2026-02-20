@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 14：异步上下文管理（__aenter__/__aexit__）。
+Author: Lambert
 
 你会学到：
 1) async with 调用 __aenter__/__aexit__

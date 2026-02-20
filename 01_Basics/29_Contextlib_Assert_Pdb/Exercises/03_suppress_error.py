@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 03: Suppress specific error.
+Author: Lambert
 
 Task:
 Implement safe_pop(d, key) -> tuple[bool, object].

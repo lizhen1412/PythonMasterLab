@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：用 raise 做参数校验（validate age）
+Author: Lambert
 
 题目：
 实现函数 `validate_age(age)`：
@@ -56,4 +57,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

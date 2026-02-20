@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 19：扩展认证方式（Digest Auth、Bearer Token、API Key）。
+Author: Lambert
 
 要点：
 - Digest Auth：比 Basic 更安全的摘要认证

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 11：优先级与短路（安全写条件）
+Author: Lambert
 
 题目：
 实现 `is_valid_username(name)`，规则：
@@ -55,4 +56,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 15：shift 与 pct_change。
+Author: Lambert
 
 题目：
 给定 Series，返回包含 shift 与 pct_change 的 DataFrame。

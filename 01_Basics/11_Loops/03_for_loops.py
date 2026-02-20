@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：for 循环（for loops）
+Author: Lambert
 
 你会学到：
 1) for 的本质：遍历“可迭代对象”（iterable），底层是 iter()/next()

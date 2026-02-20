@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：docstring 与普通三引号字符串表达式的区别。
+Author: Lambert
 
 规则回顾：
 - 只有“第一条语句”的字符串字面量，才会被当作 docstring。

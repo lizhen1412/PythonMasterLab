@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：Condition 与 Barrier。
+Author: Lambert
 """
 
 from __future__ import annotations

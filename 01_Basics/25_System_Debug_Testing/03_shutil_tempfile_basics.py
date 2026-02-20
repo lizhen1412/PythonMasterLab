@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 03: shutil + tempfile basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/25_System_Debug_Testing/03_shutil_tempfile_basics.py

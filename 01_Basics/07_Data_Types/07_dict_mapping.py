@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：字典（dict，映射类型）。
+Author: Lambert
 
 你会学到：
 1) 创建：字面量 / dict() / fromkeys / 推导式
@@ -75,4 +76,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

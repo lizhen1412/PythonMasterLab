@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 02: getenv with default.
+Author: Lambert
 
 Task:
 Implement get_env(name, default) -> str.

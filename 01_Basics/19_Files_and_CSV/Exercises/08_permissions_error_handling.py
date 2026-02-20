@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 08：捕获 FileNotFound/PermissionError。
+Author: Lambert
 """
 
 from __future__ import annotations

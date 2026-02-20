@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 06: Replace tags with non-greedy regex.
+Author: Lambert
 
 Task:
 Implement strip_b_tags(text) -> str to remove <b>...</b>.

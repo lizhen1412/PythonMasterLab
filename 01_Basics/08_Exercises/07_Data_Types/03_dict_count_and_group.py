@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：dict 计数与分组
+Author: Lambert
 
 题目：
 1) 实现 `count_words(words)`：把字符串列表计数成 dict[str, int]
@@ -44,4 +45,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

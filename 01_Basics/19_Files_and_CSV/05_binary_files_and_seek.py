@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：二进制读写、偏移读取、seek。
+Author: Lambert
 """
 
 from __future__ import annotations

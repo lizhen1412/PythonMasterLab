@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：wait_for 超时取消，捕获 CancelledError。
+Author: Lambert
 """
 
 from __future__ import annotations

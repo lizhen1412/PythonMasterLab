@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：Sniffer 推断分隔符与是否有表头。
+Author: Lambert
 """
 
 from __future__ import annotations

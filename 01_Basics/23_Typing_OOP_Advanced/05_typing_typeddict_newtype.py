@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 05: TypedDict and NewType.
+Author: Lambert
 
 Run:
     python3 01_Basics/23_Typing_OOP_Advanced/05_typing_typeddict_newtype.py

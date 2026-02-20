@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：loc/iloc/at/iat 选择。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/06_select_loc_iloc.py

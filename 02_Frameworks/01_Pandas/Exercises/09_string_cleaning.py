@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 09：字符串清洗（str.*）。
+Author: Lambert
 
 题目：
 给定一个字符串 Series：

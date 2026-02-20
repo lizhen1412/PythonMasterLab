@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 22：Pickle/Excel I/O（Excel 为可选依赖）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/22_io_pickle_excel_optional.py

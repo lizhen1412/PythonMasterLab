@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：TaskGroup（3.11+）结构化并发与异常传播。
+Author: Lambert
 """
 
 from __future__ import annotations

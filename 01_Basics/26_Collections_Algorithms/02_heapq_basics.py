@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 02: heapq basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/26_Collections_Algorithms/02_heapq_basics.py

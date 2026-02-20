@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 05: Parse TOML string.
+Author: Lambert
 
 Task:
 Implement get_title(text) -> str using tomllib.loads.

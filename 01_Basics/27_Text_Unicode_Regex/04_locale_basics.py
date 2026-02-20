@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 04: locale basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/27_Text_Unicode_Regex/04_locale_basics.py

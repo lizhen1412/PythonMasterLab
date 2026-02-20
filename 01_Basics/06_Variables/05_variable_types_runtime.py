@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：变量类型（运行时 type/isinstance + 动态类型）。
+Author: Lambert
 
 你会学到：
 1) `type(obj)`：对象的“实际类型”
@@ -51,4 +52,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

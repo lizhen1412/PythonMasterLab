@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：别名陷阱（a = b = []）
+Author: Lambert
 
 题目：
 1) 写出“错误示例”：`a = b = []`，修改 a 会影响 b（因为同一个 list）
@@ -47,4 +48,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

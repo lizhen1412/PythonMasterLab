@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：可迭代对象 vs 迭代器。
+Author: Lambert
 
 你会学到：
 1) iterable：能被 iter(x) 转成迭代器

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：string.Template（$name 风格的模板替换）。
+Author: Lambert
 
 适用场景：
 - 你想要一个“更简单、更受限”的模板语法（避免 format/f-string 的表达式能力）
@@ -33,4 +34,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

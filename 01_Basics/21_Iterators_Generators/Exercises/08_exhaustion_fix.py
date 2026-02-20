@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 08：修复一次性迭代器被耗尽的 bug。
+Author: Lambert
 
 题目：
 实现函数 `mean_and_total(nums)`：

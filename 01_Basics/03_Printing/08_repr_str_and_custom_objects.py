@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：str vs repr（对象怎么决定“打印出来长什么样”）
+Author: Lambert
 
 结论：
 1) `print(obj)` 默认调用 `str(obj)`
@@ -43,4 +44,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

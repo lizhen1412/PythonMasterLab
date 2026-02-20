@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：分组汇总（groupby + sum）。
+Author: Lambert
 
 题目：
 给定一张销售表（store, amount），按 store 分组求和。

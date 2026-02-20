@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 14：格式化输出（更专业地打印变量）。
+Author: Lambert
 
 你会学到：
 1) `str(x)` vs `repr(x)`：面向用户 vs 面向开发者
@@ -58,4 +59,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

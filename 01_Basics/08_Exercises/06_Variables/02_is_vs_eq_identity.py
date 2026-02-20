@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：is vs ==（身份与值）
+Author: Lambert
 
 题目：
 实现 `compare(a, b)`，返回一个 dict，包含：
@@ -39,4 +40,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

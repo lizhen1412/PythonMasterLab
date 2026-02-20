@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 10：FizzBuzz（for + 条件分支）
+Author: Lambert
 
 题目：
 实现 `fizzbuzz(n)`，返回 1..n 的字符串列表：
@@ -52,4 +53,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

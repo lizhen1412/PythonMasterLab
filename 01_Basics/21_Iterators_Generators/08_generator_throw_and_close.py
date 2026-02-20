@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：throw/close 与清理。
+Author: Lambert
 
 你会学到：
 1) throw() 在生成器内部抛异常

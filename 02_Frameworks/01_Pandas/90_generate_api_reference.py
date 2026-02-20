@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 90：生成 pandas API 名称索引（需 pandas 2.3.3）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/90_generate_api_reference.py

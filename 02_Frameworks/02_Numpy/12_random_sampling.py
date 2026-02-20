@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：随机数（可重复）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/12_random_sampling.py

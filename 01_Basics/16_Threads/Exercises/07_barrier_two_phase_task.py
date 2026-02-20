@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 07：Barrier 同步两阶段工作。
+Author: Lambert
 """
 
 from __future__ import annotations

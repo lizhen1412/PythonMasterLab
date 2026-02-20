@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：广播与向量化运算。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/07_broadcasting_ops.py

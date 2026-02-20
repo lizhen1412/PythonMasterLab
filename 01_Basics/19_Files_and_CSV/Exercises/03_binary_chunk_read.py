@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：二进制按块读取并统计长度。
+Author: Lambert
 """
 
 from __future__ import annotations

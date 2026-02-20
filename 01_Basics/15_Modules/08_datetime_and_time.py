@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：日期与时间。
+Author: Lambert
 
 - datetime.now / utcnow / timezone
 - strftime 格式化、strptime 解析

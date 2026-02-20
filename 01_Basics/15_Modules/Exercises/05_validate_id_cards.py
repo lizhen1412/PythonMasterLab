@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：批量校验身份证号。
+Author: Lambert
 
 要求：
 - 复用章节中的 validate_id 函数（动态加载模块）

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：正则表达式基础（re 模块）。
+Author: Lambert
 
 - compile/search/match/findall
 - 分组与命名分组

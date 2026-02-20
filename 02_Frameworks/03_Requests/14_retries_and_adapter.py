@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 14：HTTPAdapter + Retry（简单重试策略）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/03_Requests/14_retries_and_adapter.py

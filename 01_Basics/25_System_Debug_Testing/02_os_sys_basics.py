@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 02: os/sys essentials.
+Author: Lambert
 
 Run:
     python3 01_Basics/25_System_Debug_Testing/02_os_sys_basics.py

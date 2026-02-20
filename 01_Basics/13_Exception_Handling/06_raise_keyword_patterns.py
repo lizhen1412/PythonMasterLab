@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：raise 关键字的各种用法（raise / raise from / raise from None / re-raise）
+Author: Lambert
 
 你会学到：
 1) 主动抛错：raise ValueError(...)
@@ -89,4 +90,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

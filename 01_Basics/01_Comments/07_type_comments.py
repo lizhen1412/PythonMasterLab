@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：类型注释（type comments）：`# type: ...` 与 `# type: ignore`。
+Author: Lambert
 
 说明：
 - 类型注释主要给静态类型检查器（mypy/pyright/basedpyright 等）使用，运行时不会影响执行结果。

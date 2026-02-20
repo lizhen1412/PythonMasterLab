@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 11：functools.partial 与 wraps。
+Author: Lambert
 
 你会学到：
 1) partial 固定部分参数

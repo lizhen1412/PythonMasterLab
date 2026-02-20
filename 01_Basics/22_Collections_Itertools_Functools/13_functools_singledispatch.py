@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 13：functools.singledispatch。
+Author: Lambert
 
 你会学到：
 1) 按第一个参数类型分发函数实现

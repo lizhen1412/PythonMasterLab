@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 13：Basic Auth。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/03_Requests/13_basic_auth.py

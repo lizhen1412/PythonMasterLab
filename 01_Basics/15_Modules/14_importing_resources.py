@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 14：读取包内资源文件。
+Author: Lambert
 
 - `importlib.resources.files` / `read_text`
 - 避免手写相对路径（更健壮，可打包/嵌入）

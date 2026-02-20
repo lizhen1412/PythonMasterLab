@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 11：singledispatch 格式化。
+Author: Lambert
 
 题目：
 实现函数 `format_value(x)`：

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：变量相关常见坑（尽量不让脚本崩：用 try/except 或安全写法演示）。
+Author: Lambert
 
 你会学到：
 1) `is` vs `==`：is 比较“是否同一对象”，== 比较“值是否相等”
@@ -88,4 +89,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

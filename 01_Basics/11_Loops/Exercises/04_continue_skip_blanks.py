@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：continue（过滤空白并规范化）
+Author: Lambert
 
 题目：
 实现 `normalize_lines(lines)`，要求：
@@ -43,4 +44,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：复制（copy）：浅拷贝 vs 深拷贝。
+Author: Lambert
 
 你会学到：
 1) 直接赋值不会复制：b = a 只是“又多了一个名字”
@@ -38,4 +39,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

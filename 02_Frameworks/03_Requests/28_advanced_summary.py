@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 28：Requests 进阶内容总结。
+Author: Lambert
 
 本章涵盖 requests 的高级用法和最佳实践。
 

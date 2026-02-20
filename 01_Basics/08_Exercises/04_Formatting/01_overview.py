@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 01：格式化（Formatting）练习索引（每题一个文件）。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 01_Basics/08_Exercises/04_Formatting/01_overview.py
@@ -28,4 +29,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

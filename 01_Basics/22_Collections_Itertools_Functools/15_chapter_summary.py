@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 15：本章总结（collections / itertools / functools）。
+Author: Lambert
 
 运行：
     python3 01_Basics/22_Collections_Itertools_Functools/15_chapter_summary.py

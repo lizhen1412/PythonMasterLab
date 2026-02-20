@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 09：实现计算器核心函数（不使用 eval）
+Author: Lambert
 
 题目：
 实现函数 `calculate_expr(expr)`：
@@ -92,4 +93,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 08: Chapter summary.
+Author: Lambert
 
 Run:
     python3 01_Basics/26_Collections_Algorithms/08_chapter_summary.py

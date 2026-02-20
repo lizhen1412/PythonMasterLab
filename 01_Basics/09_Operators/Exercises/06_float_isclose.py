@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：用 math.isclose 做浮点相等判断
+Author: Lambert
 
 题目：
 实现 `float_equal(a, b, rel_tol=..., abs_tol=...)`，内部用 `math.isclose`。
@@ -40,4 +41,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

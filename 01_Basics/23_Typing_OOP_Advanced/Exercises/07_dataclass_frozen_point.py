@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 07: Frozen dataclass point.
+Author: Lambert
 
 Task:
 Define a frozen dataclass Point(x, y) and a distance() method.

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 02: Parse query params.
+Author: Lambert
 
 Task:
 Implement parse_query(query) -> dict[str, list[str]].

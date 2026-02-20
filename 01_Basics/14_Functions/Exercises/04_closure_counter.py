@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：闭包计数器。
+Author: Lambert
 
 要求：
 - 编写 make_counter，返回一个使用 nonlocal 累加的函数

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：权限/错误处理：stat、chmod、异常捕获。
+Author: Lambert
 """
 
 from __future__ import annotations

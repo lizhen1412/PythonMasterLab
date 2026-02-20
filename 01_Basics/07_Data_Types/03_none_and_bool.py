@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：None 与 bool。
+Author: Lambert
 
 你会学到：
 1) None 是“空值/缺失值”的常见表示；它是单例：用 `is None` 判断
@@ -56,4 +57,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

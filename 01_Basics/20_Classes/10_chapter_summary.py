@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：本章总结（类与对象）。
+Author: Lambert
 
 运行（在仓库根目录执行）：
     python3 01_Basics/20_Classes/10_chapter_summary.py

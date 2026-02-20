@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：生成器 - 偶数平方。
+Author: Lambert
 
 题目：
 实现生成器函数 `even_squares(nums)`：

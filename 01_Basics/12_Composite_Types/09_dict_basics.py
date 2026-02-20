@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：字典 dict（映射：key -> value）
+Author: Lambert
 
 你会学到：
 1) 创建：字面量/dict()/推导式/dict(zip())
@@ -81,4 +82,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

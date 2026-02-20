@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：tuple 解包与交换变量（swap）
+Author: Lambert
 
 题目：
 1) 实现函数 `swap(a, b)`：用“多重赋值/元组打包解包”的方式交换并返回 (b, a)
@@ -46,4 +47,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

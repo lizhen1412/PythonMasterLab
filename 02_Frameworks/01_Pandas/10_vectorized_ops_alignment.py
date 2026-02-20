@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：向量化运算与索引对齐。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/10_vectorized_ops_alignment.py

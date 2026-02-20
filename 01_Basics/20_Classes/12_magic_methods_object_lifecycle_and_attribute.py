@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：对象生命周期与属性访问（__new__/__del__/__getattribute__）。
+Author: Lambert
 
 你会学到：
 1) __new__ 创建实例、__init__ 初始化

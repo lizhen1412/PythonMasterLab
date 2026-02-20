@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 19：数据类型完整版。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/19_dtype_complete.py

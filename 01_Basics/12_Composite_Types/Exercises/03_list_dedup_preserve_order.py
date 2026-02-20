@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：list 去重但保持顺序（preserve order）
+Author: Lambert
 
 题目：
 实现函数 `dedup_preserve_order(items)`：
@@ -54,4 +55,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

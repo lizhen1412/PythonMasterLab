@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：链式赋值与别名陷阱（a = b = ...）。
+Author: Lambert
 
 链式赋值会把“同一个对象”绑定给多个名字：
     a = b = some_object
@@ -41,4 +42,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

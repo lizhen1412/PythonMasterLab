@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：accumulate / pairwise / zip_longest。
+Author: Lambert
 
 你会学到：
 1) accumulate：累计求和或自定义累积

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 14：每线程独立 Random，避免共享状态干扰。
+Author: Lambert
 """
 
 from __future__ import annotations

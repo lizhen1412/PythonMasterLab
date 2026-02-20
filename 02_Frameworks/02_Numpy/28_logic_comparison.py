@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 28：逻辑与比较。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/28_logic_comparison.py

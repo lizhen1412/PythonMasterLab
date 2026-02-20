@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 23：线性代数全集。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/23_linalg_complete.py

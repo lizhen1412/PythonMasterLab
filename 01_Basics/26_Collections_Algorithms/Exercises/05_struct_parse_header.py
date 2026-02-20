@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 05: Parse bytes with struct.
+Author: Lambert
 
 Task:
 Implement parse_header(data) -> tuple[int, int].

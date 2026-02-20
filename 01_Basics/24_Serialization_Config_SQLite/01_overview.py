@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 01: Serialization/Config/SQLite index.
+Author: Lambert
 
 Run:
     python3 01_Basics/24_Serialization_Config_SQLite/01_overview.py

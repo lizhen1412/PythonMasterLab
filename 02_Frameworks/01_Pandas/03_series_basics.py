@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：Series 基础。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/03_series_basics.py

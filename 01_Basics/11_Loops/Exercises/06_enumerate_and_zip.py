@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：enumerate + zip（对齐两列数据）
+Author: Lambert
 
 题目：
 实现 `format_rows(names, scores)`，要求：
@@ -42,4 +43,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

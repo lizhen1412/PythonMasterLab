@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 09：指数爆炸（2^n 与 powerset）
+Author: Lambert
 
 题目：
 实现：
@@ -53,4 +54,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

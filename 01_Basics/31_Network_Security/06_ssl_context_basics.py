@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 06: SSL context basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/31_Network_Security/06_ssl_context_basics.py

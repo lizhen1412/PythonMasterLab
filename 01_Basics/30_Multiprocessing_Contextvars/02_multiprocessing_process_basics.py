@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 02: multiprocessing.Process basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/30_Multiprocessing_Contextvars/02_multiprocessing_process_basics.py

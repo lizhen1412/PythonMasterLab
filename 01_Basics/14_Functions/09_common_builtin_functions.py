@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：常用内置函数（函数式/迭代工具）分类与易错点。
+Author: Lambert
 
 - 聚合：len/sum/any/all/min/max
 - 迭代/序列：sorted/reversed/zip/enumerate

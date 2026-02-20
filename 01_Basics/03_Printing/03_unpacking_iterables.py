@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：一行打印可迭代对象（iterable）：print(*items)
+Author: Lambert
 
 你会学到：
 1) `print(items)`：打印“容器本身”（如列表的 repr）
@@ -41,4 +42,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

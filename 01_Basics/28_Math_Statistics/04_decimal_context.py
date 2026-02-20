@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 04: decimal context and rounding.
+Author: Lambert
 
 Run:
     python3 01_Basics/28_Math_Statistics/04_decimal_context.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：赋值目标（assignment targets）。
+Author: Lambert
 
 在 Python 里，`=` 左边不仅可以是“变量名”，还可以是：
 1) 属性：obj.attr = ...
@@ -49,4 +50,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

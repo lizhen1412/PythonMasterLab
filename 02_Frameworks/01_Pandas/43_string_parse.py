@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 43：字符串解析（split/extract）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/43_string_parse.py

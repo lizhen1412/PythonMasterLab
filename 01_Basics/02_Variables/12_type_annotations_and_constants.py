@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：变量类型注解（type annotations）与“常量”约定。
+Author: Lambert
 
 重要认知：
 1) Python 的类型注解主要给工具（IDE/类型检查器）用；运行时不会强制类型
@@ -47,4 +48,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

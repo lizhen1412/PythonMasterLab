@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 04: Pickle roundtrip and security warning.
+Author: Lambert
 
 Run:
     python3 01_Basics/24_Serialization_Config_SQLite/04_pickle_roundtrip.py

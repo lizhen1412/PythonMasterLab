@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 11：数值运算与类型转换相关的魔法方法。
+Author: Lambert
 
 你会学到：
 1) 数值运算：__add__/__sub__/__mul__/__truediv__/__floordiv__/__mod__/__pow__

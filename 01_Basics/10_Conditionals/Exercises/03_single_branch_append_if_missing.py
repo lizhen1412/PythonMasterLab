@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：单分支 if（如果不存在就追加）
+Author: Lambert
 
 题目：
 实现 `append_if_missing(items, value)`，要求：
@@ -41,4 +42,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

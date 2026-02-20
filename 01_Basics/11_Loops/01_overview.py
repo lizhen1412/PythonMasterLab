@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 01：Python 3.11+ 循环（Loops）相关示例索引。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 01_Basics/11_Loops/01_overview.py

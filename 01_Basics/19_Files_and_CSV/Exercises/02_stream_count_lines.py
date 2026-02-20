@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：逐行计数（大文件不全量读）。
+Author: Lambert
 """
 
 from __future__ import annotations

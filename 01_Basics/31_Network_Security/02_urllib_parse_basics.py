@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 02: URL parsing and encoding.
+Author: Lambert
 
 Run:
     python3 01_Basics/31_Network_Security/02_urllib_parse_basics.py

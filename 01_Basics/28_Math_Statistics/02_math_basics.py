@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 02: math module basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/28_Math_Statistics/02_math_basics.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：安装与版本检查（numpy 2.4.0）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/02_install_and_version.py

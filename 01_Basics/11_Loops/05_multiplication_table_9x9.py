@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：九九乘法表（Nested loops）
+Author: Lambert
 
 你会学到：
 1) 嵌套 for：外层控制行，内层控制列
@@ -30,4 +31,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

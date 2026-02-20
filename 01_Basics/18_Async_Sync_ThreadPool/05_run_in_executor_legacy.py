@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：loop.run_in_executor（兼容旧代码，自建线程池）。
+Author: Lambert
 """
 
 from __future__ import annotations

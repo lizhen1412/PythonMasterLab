@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 04: array module basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/26_Collections_Algorithms/04_array_basics.py

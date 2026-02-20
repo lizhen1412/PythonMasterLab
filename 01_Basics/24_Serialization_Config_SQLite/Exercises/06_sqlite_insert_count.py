@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 06: Insert and count rows.
+Author: Lambert
 
 Task:
 Implement insert_and_count(names) -> int using sqlite3 in-memory DB.

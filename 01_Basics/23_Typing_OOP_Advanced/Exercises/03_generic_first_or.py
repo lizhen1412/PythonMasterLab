@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 03: TypeVar-based generic helper.
+Author: Lambert
 
 Task:
 Implement first_or(items, default) -> T.

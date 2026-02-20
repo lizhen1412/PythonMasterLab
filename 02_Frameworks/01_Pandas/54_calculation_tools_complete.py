@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 54：计算工具全集。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/54_calculation_tools_complete.py

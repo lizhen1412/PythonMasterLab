@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 20：结构化数组。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/20_structured_arrays.py

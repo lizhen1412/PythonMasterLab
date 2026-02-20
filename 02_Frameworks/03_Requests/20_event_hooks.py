@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 20：事件钩子（Event Hooks）。
+Author: Lambert
 
 要点：
 - hooks 参数：监听请求/响应生命周期事件

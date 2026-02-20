@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：赋值运算符（Assignment Operators）
+Author: Lambert
 
 你会学到：
 1) `=`：名字绑定对象；支持多重赋值与解包

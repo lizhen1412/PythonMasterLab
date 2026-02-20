@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：错误处理与 return_exceptions，后台任务异常监控。
+Author: Lambert
 """
 
 from __future__ import annotations

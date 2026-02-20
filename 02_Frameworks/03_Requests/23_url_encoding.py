@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 23：URL 编码与解码。
+Author: Lambert
 
 要点：
 - requests 自动处理 params 中的特殊字符编码

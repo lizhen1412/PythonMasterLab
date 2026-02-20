@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：for-else（素数判断）
+Author: Lambert
 
 题目：
 实现 `is_prime(n)`，要求：
@@ -55,4 +56,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

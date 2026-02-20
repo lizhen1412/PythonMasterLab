@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 03: multiprocessing.Queue for results.
+Author: Lambert
 
 Run:
     python3 01_Basics/30_Multiprocessing_Contextvars/03_multiprocessing_queue.py

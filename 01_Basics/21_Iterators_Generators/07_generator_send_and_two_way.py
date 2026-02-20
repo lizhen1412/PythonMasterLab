@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：生成器的 send() 双向通信。
+Author: Lambert
 
 你会学到：
 1) next(gen) 等价于 gen.send(None)

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：安装与版本检查（requests 2.32.3）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/03_Requests/02_install_and_version.py

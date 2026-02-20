@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：嵌套选择 vs 卫语句（实现 can_upload）
+Author: Lambert
 
 题目：
 实现 `can_upload_guard(user, size_mb)`，规则：
@@ -86,4 +87,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

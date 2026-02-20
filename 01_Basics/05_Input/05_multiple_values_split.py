@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：一行输入多个值（split/unpack/map/shlex.split）。
+Author: Lambert
 
 你会学到：
 1) `line.split()`：按空白切分（多个空格也 OK）
@@ -78,4 +79,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

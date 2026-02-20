@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：上下文管理与可调用对象。
+Author: Lambert
 
 你会学到：
 1) __enter__ / __exit__：with 语句协议

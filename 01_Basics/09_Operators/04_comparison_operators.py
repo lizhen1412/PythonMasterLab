@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：比较运算符（Comparison Operators）
+Author: Lambert
 
 你会学到：
 1) `== != < <= > >=` 的基本用法
@@ -50,4 +51,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

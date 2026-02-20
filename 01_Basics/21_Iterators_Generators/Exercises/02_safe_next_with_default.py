@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：实现安全的 next_or。
+Author: Lambert
 
 题目：
 实现函数 `next_or(it, default=None)`：

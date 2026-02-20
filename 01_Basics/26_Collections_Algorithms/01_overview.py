@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 01: Collections and Algorithms index.
+Author: Lambert
 
 Run:
     python3 01_Basics/26_Collections_Algorithms/01_overview.py

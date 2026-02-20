@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：print(*items) vs join
+Author: Lambert
 
 题目：
 实现 `join_csv(items)`，要求：
@@ -46,4 +47,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 04: Shared counter.
+Author: Lambert
 
 Task:
 Implement shared_count(workers, times) -> int using Manager.

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 19：类别数据（category）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/19_categorical.py

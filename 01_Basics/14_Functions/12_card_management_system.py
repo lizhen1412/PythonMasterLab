@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：函数化的名片管理系统（简化版）。
+Author: Lambert
 
 - 数据存储：内存 list[dict]，字段包含 name/phone/email/tags
 - 功能：新增、查询（精确/模糊）、更新、删除、格式化打印

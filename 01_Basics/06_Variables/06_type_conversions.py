@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：类型转换（显式转换 + 常见坑）。
+Author: Lambert
 
 你会学到：
 1) `int/float/str`：最常用的显式转换
@@ -59,4 +60,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

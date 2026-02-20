@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：序列（Sequence）切片与 head/tail（first/middle/last）
+Author: Lambert
 
 题目：
 实现 3 个函数（支持 list/tuple/str/range 等“可切片序列”）：
@@ -75,4 +76,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

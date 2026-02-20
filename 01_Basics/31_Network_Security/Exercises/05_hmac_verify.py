@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 05: Verify HMAC.
+Author: Lambert
 
 Task:
 Implement sign(secret, message) -> str and verify(secret, message, sig) -> bool.

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：旧式 % 格式化（printf 风格）。
+Author: Lambert
 
 你会学到：
 1) tuple 风格：`"x=%d y=%s" % (x, y)`
@@ -43,4 +44,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：打开模式/编码/newline/buffering，with/seek/tell。
+Author: Lambert
 """
 
 from __future__ import annotations

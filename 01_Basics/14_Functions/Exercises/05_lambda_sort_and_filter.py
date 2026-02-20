@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：lambda 排序与过滤。
+Author: Lambert
 
 要求：
 - 有一批记录（姓名、年龄、城市）

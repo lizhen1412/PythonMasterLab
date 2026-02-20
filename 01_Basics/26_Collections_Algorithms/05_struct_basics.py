@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 05: struct pack/unpack basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/26_Collections_Algorithms/05_struct_basics.py

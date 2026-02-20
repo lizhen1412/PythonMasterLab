@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：try/finally 做资源清理（read first line）
+Author: Lambert
 
 题目：
 实现函数 `read_first_line(path)`：
@@ -57,4 +58,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

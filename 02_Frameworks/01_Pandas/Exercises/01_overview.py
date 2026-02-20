@@ -3,6 +3,8 @@
 """
 练习索引：pandas 2.3.3。
 
+Author: Lambert
+
 运行方式（在仓库根目录执行）：
     python3 02_Frameworks/01_Pandas/Exercises/01_overview.py
 """
@@ -26,6 +28,15 @@ TOPICS: list[tuple[str, str]] = [
     ("14_groupby_named_agg.py", "命名聚合"),
     ("15_shift_pct_change.py", "shift 与 pct_change"),
     ("16_json_normalize_basic.py", "json_normalize 展开"),
+    # 高级练习 (17-24)
+    ("17_grouper_monthly.py", "Grouper 按月分组"),
+    ("18_period_conversion.py", "Period 转换"),
+    ("19_datetime_filter.py", "DateTime 组件过滤"),
+    ("20_clip_outliers.py", "clip 处理异常值"),
+    ("21_quantile_binning.py", "quantile 分箱"),
+    ("22_crosstab_analysis.py", "crosstab 交叉分析"),
+    ("23_sparse_array.py", "稀疏数组"),
+    ("24_interval_operations.py", "Interval 操作"),
 ]
 
 

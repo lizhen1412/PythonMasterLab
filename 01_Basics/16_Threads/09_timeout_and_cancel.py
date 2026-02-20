@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：超时与取消。
+Author: Lambert
 """
 
 from __future__ import annotations

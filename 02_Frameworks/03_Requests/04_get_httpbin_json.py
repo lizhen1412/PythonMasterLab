@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：GET + JSON 解析（httpbin.org）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/03_Requests/04_get_httpbin_json.py

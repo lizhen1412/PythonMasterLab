@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 34：其他格式与 SQL（可选依赖）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/34_io_other_formats_sql_optional.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 14：reduce 与 cmp_to_key。
+Author: Lambert
 
 你会学到：
 1) reduce 做折叠式聚合

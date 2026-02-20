@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：容器与迭代相关的魔法方法。
+Author: Lambert
 
 你会学到：
 1) __len__ / __getitem__ / __setitem__ / __contains__

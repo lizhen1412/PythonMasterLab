@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 07：to_thread 包装阻塞函数，验证事件循环未被阻塞。
+Author: Lambert
 """
 
 from __future__ import annotations

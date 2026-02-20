@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：用 AST 提取 docstring
+Author: Lambert
 
 题目：
 1) 实现 `extract_module_docstring(source: str) -> str | None`
@@ -57,4 +58,3 @@ def greet() -> str:
 
 if __name__ == "__main__":
     main()
-

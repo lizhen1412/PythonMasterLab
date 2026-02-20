@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：Session 复用与 Cookie。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/03_Requests/09_session_and_cookies.py

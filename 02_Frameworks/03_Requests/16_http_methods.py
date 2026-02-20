@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 16：HTTP 方法完整演示（PUT/PATCH/DELETE/HEAD/OPTIONS）。
+Author: Lambert
 
 要点：
 - PUT：完整更新资源（幂等）

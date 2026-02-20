@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 28：统计概览与对比。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/28_stats_summary.py

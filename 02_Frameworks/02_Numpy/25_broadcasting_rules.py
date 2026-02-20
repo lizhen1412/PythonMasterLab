@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 25：广播规则详解。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/25_broadcasting_rules.py

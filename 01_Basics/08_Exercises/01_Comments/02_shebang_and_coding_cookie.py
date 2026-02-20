@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：识别 shebang 与 encoding 声明（coding cookie）
+Author: Lambert
 
 题目：
 1) 实现 `detect_shebang(lines: list[str]) -> str | None`
@@ -59,4 +60,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 06: Parse enum status.
+Author: Lambert
 
 Task:
 Implement parse_status(text) -> Status.

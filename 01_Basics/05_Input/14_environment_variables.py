@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 14：环境变量输入（os.environ / os.getenv）。
+Author: Lambert
 
 你会学到：
 1) 读取环境变量并设置默认值

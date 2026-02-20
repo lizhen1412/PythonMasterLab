@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：raise_for_status 与状态码判断。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/03_Requests/08_raise_for_status.py

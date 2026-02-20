@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：Event 启停信号，优雅退出循环。
+Author: Lambert
 """
 
 from __future__ import annotations

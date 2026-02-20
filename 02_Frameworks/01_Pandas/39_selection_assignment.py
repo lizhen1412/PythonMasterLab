@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 39：选择与赋值（[]/loc/assign/where）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/39_selection_assignment.py

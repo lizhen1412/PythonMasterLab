@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 09：match（映射模式：event dict）
+Author: Lambert
 
 题目：
 实现 `describe_event(event)`，支持以下输入：
@@ -61,4 +62,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

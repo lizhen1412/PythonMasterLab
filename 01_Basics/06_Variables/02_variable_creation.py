@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：变量创建（assignment / unpacking / annotations）。
+Author: Lambert
 
 核心认知：
 - 在 Python 里，“变量”更准确的说法是 **名字（name）绑定对象（object）**。
@@ -73,4 +74,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

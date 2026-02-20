@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 08：九九乘法表（生成字符串表格）
+Author: Lambert
 
 题目：
 实现 `multiplication_table(n=9)`，要求：
@@ -44,4 +45,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

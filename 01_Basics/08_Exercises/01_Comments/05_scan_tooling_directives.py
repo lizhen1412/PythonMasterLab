@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：扫描常见工具指令注释（tooling directives）
+Author: Lambert
 
 题目：
 实现 `extract_tooling_directives(source: str) -> dict[str, int]`，要求：
@@ -80,4 +81,3 @@ z = 3  # type: ignore
 
 if __name__ == "__main__":
     main()
-

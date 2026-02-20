@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 07: Verbose regex and flags.
+Author: Lambert
 
 Run:
     python3 01_Basics/27_Text_Unicode_Regex/07_regex_verbose_flags.py

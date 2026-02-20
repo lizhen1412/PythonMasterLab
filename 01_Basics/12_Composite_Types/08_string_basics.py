@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：字符串 str（序列特性 + 高频文本方法）
+Author: Lambert
 
 你会学到：
 1) str 也是序列：索引/切片/遍历/成员测试
@@ -55,4 +56,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

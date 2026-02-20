@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 03: Build Request objects without sending.
+Author: Lambert
 
 Run:
     python3 01_Basics/31_Network_Security/03_urllib_request_build.py

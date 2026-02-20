@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：shebang（#!）示例。
+Author: Lambert
 
 说明：
 - 在类 Unix 系统（macOS/Linux）中，如果脚本有可执行权限并以 `./script.py` 方式运行，

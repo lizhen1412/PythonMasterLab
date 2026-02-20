@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 18：数组创建完整版。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/18_array_creation_complete.py

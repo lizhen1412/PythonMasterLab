@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 11：去重（drop_duplicates）。
+Author: Lambert
 
 题目：
 给定订单表，按 user_id 去重，保留最后一条。

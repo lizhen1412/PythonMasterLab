@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 02: JSON dumps/loads basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/24_Serialization_Config_SQLite/02_json_dumps_loads.py

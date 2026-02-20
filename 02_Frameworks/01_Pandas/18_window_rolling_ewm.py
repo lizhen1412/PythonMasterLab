@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 18：窗口函数（rolling/expanding/ewm）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/18_window_rolling_ewm.py

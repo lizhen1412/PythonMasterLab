@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 24：性能与最佳实践（入门版）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/24_performance_tips.py

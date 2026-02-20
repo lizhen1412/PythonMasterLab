@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 16：ufunc 与条件处理（where/clip/sqrt）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/16_vectorize_ufunc.py

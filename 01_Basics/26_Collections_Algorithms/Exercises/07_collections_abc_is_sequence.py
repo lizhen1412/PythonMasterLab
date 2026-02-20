@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 07: Sequence check.
+Author: Lambert
 
 Task:
 Implement is_sequence(obj) -> bool.

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：条件判断——单分支 if（Single-branch）
+Author: Lambert
 
 你会学到：
 1) if 的基本语法：`if condition: ...`（没有 else）
@@ -51,4 +52,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

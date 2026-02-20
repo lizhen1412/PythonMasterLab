@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 10：失败重试（retry until success）
+Author: Lambert
 
 题目：
 实现函数 `retry(fn, max_attempts)`：
@@ -68,4 +69,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

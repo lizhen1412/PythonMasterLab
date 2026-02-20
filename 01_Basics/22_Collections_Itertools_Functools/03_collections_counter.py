@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：collections.Counter。
+Author: Lambert
 
 你会学到：
 1) Counter 统计频率

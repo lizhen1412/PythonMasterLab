@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：超时与连接错误。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/03_Requests/07_timeouts_and_errors.py

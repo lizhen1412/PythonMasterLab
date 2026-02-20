@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：集合（set / frozenset）。
+Author: Lambert
 
 你会学到：
 1) set：无序、元素唯一、支持集合运算（并/交/差/对称差）
@@ -50,4 +51,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

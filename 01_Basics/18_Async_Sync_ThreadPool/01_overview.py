@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 01：异步 + 同步 + 线程池协作章节索引。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 01_Basics/18_Async_Sync_ThreadPool/01_overview.py

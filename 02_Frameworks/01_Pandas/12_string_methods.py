@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：字符串处理（str 访问器）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/12_string_methods.py

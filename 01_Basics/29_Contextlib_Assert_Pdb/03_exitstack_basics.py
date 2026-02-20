@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 03: ExitStack usage.
+Author: Lambert
 
 Run:
     python3 01_Basics/29_Contextlib_Assert_Pdb/03_exitstack_basics.py

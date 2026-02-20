@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：代码调试（日志 logging）
+Author: Lambert
 
 你会学到：
 1) logging 分级：DEBUG/INFO/WARNING/ERROR
@@ -48,4 +49,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：线程名日志，shutdown(cancel_futures) 行为与清理。
+Author: Lambert
 """
 
 from __future__ import annotations

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：拼接一行字符串：join vs sep
+Author: Lambert
 
 你会学到：
 1) `print(*items, sep=", ")`：print 自己会对每个元素做 str()，很省心

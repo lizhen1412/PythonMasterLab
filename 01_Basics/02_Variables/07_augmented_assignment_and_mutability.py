@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：增强赋值（+= 等）与可变性（mutability）。
+Author: Lambert
 
 关键结论（很重要）：
 1) 对可变对象（list/dict 等），`+=` 可能是“原地修改”（in-place），对象 id 不变
@@ -46,4 +47,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

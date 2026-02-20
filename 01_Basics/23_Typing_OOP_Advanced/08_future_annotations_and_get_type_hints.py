@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 08: __future__ annotations and get_type_hints.
+Author: Lambert
 
 Run:
     python3 01_Basics/23_Typing_OOP_Advanced/08_future_annotations_and_get_type_hints.py

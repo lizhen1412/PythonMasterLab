@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 06: Safe breakpoint usage.
+Author: Lambert
 
 Run:
     python3 01_Basics/29_Contextlib_Assert_Pdb/06_breakpoint_safe.py

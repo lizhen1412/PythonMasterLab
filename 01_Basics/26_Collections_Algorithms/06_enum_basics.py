@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 06: Enum, IntEnum, Flag.
+Author: Lambert
 
 Run:
     python3 01_Basics/26_Collections_Algorithms/06_enum_basics.py

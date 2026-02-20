@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 03: Insert into sorted list.
+Author: Lambert
 
 Task:
 Implement insert_sorted(nums, value) -> list[int].

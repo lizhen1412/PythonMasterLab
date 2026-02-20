@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：datetime 格式化（strftime vs isoformat）
+Author: Lambert
 
 题目：
 实现 `format_datetime(dt)`，返回两个字符串：
@@ -39,4 +40,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

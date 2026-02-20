@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 06：作用域、`UnboundLocalError`、`global/nonlocal`、闭包。
+Author: Lambert
 
 - LEGB：Local -> Enclosing -> Global -> Builtins
 - `UnboundLocalError` 触发条件：在局部赋值前读取同名变量

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：Semaphore 限制并发任务数。
+Author: Lambert
 """
 
 from __future__ import annotations

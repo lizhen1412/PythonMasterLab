@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 08：演示 shutdown(cancel_futures=True) 对未开始任务的影响。
+Author: Lambert
 """
 
 from __future__ import annotations

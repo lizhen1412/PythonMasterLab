@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 03: ProcessPoolExecutor map.
+Author: Lambert
 
 Task:
 Implement pool_squares(nums) -> list[int].

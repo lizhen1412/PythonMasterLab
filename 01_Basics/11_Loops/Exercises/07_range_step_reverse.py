@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 07：range（步长与反向遍历）
+Author: Lambert
 
 题目：
 实现两个函数：
@@ -44,4 +45,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

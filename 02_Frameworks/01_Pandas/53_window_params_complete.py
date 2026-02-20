@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 53：窗口函数参数详解。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/53_window_params_complete.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 11：常见转换与工具函数（把各种类型用起来）。
+Author: Lambert
 
 你会学到：
 1) str / repr / ascii：面向用户 vs 面向调试
@@ -46,4 +47,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

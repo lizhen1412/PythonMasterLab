@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 07：安全写入：临时文件替换原文件。
+Author: Lambert
 """
 
 from __future__ import annotations

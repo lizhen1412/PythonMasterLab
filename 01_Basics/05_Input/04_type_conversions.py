@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：类型转换（把 input() 得到的 str 变成你需要的类型）。
+Author: Lambert
 
 关键事实：
 - `input()` 永远返回 str；想要 int/float/bool/Decimal，必须自己转换。
@@ -84,4 +85,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

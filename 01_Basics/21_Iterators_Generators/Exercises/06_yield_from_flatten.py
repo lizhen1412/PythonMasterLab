@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：yield from 扁平化嵌套列表。
+Author: Lambert
 
 题目：
 实现生成器函数 `flatten(rows)`：

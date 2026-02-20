@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：用 Event 控制工作线程开始/停止。
+Author: Lambert
 """
 
 from __future__ import annotations

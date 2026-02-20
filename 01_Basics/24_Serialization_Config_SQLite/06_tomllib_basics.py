@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 06: TOML parsing with tomllib (Python 3.11+).
+Author: Lambert
 
 Run:
     python3 01_Basics/24_Serialization_Config_SQLite/06_tomllib_basics.py

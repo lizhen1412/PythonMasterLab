@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 16（进阶）：match/case、with/except 的 as 绑定。
+Author: Lambert
 
 你会学到：
 1) `match/case` 的捕获模式（capture pattern）会“绑定变量”

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：条件判断——闰年判断（Leap Year）
+Author: Lambert
 
 题目/目标：
 实现闰年判断函数 `is_leap_year(year)`，并用 if/else 与布尔表达式两种写法对照。
@@ -55,4 +56,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

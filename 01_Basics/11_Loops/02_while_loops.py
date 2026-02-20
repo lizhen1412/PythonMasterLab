@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：while 循环（while loops）
+Author: Lambert
 
 你会学到：
 1) while 的核心：初始化 -> 条件 -> 循环体 -> 更新
@@ -90,4 +91,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

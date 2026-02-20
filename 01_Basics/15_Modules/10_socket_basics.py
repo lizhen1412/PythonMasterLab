@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：socket 基础。
+Author: Lambert
 
 - 地址族与类型：AF_INET（IPv4）/ SOCK_STREAM（TCP）
 - 用 socket.socketpair() 在本地进程内演示收发（无需网络）

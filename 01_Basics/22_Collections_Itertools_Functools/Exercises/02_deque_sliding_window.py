@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：deque 实现滑动窗口。
+Author: Lambert
 
 题目：
 实现函数 `window_sums(nums, size)`：

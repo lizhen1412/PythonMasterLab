@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 16：json_normalize。
+Author: Lambert
 
 题目：
 将嵌套 JSON 展开为扁平表。

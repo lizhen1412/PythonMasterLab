@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：格式化规格——浮点（float）与 Decimal。
+Author: Lambert
 
 你会学到：
 1) `f`：定点小数；`.2f` 控制小数位
@@ -50,4 +51,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

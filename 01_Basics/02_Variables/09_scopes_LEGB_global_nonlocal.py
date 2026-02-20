@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：作用域（Scope）与 LEGB：Local/Enclosing/Global/Builtins。
+Author: Lambert
 
 你会学到：
 1) 变量查找顺序（LEGB）：局部 -> 闭包外层 -> 全局 -> 内置
@@ -90,4 +91,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

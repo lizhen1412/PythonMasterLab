@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习索引：协程与 asyncio（Coroutines）章节练习。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 01_Basics/17_Coroutines/Exercises/01_overview.py

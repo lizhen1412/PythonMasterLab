@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：ThreadPoolExecutor 提交/结果/异常/超时。
+Author: Lambert
 """
 
 from __future__ import annotations

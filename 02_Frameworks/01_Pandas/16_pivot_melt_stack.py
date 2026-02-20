@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 16：透视与重塑（pivot/melt/stack/unstack）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/16_pivot_melt_stack.py

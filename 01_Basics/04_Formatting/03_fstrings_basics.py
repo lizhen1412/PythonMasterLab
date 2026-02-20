@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：f-string（推荐的现代格式化方式）。
+Author: Lambert
 
 你会学到：
 1) f-string 可以在一行里拼出结构化字符串（k=v 风格很常见）
@@ -48,4 +49,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

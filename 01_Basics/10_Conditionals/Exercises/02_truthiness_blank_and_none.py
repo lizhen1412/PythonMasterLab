@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：真值测试（区分 None 与空字符串/0/False）
+Author: Lambert
 
 题目：
 实现下面两个函数：
@@ -56,4 +57,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

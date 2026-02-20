@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 15：二进制 stdin 与编码（sys.stdin.buffer）。
+Author: Lambert
 
 你会学到：
 1) sys.stdin 是“文本流”，sys.stdin.buffer 是“字节流”

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 04: subprocess basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/25_System_Debug_Testing/04_subprocess_basics.py

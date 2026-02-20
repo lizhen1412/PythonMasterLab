@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：用链式比较实现 is_between
+Author: Lambert
 
 题目：
 实现 `is_between(x, low, high, inclusive=True)`，要求：
@@ -40,4 +41,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

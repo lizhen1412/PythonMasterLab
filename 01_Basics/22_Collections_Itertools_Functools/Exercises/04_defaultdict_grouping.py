@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：defaultdict 分组。
+Author: Lambert
 
 题目：
 实现函数 `group_by_first(words)`：

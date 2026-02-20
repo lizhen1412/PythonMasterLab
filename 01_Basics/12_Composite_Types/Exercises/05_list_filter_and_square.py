@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：list 过滤 + 映射（推导式）
+Author: Lambert
 
 题目：
 实现函数 `even_squares(nums)`：
@@ -42,4 +43,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

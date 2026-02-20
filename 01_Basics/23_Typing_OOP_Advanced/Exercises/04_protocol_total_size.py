@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 04: Protocol with __len__.
+Author: Lambert
 
 Task:
 Implement total_size(items) -> int for a list of sized objects.

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 13：时间与时间差。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/13_datetime_timedelta.py

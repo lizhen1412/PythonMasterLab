@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：asyncio.to_thread 调用阻塞函数，避免卡住事件循环。
+Author: Lambert
 """
 
 from __future__ import annotations

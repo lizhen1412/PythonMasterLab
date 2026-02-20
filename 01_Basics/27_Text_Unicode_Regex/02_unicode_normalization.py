@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 02: Unicode normalization with unicodedata.
+Author: Lambert
 
 Run:
     python3 01_Basics/27_Text_Unicode_Regex/02_unicode_normalization.py

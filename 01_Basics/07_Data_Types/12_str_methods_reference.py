@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：str 方法全覆盖（Python 3.11+）。
+Author: Lambert
 
 你会学到：
 1) 清理与切分：strip/split/partition/expandtabs 等

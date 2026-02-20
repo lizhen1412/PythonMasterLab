@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 05: TypedDict with optional field.
+Author: Lambert
 
 Task:
 Define User TypedDict with name/age and optional nickname.

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercises index: Text, Unicode, and Regex.
+Author: Lambert
 
 Run:
     python3 01_Basics/27_Text_Unicode_Regex/Exercises/01_overview.py

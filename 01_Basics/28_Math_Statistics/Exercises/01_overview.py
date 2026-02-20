@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercises index: Math and Statistics.
+Author: Lambert
 
 Run:
     python3 01_Basics/28_Math_Statistics/Exercises/01_overview.py

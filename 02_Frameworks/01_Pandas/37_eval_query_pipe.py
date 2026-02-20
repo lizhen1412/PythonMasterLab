@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 37：eval/query/pipe 与方法链。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/37_eval_query_pipe.py

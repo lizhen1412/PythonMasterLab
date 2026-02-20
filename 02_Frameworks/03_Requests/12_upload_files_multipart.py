@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：文件上传 multipart/form-data。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/03_Requests/12_upload_files_multipart.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 09：logging 打印线程名。
+Author: Lambert
 """
 
 from __future__ import annotations

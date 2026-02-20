@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 05: Compiled regex with groups.
+Author: Lambert
 
 Run:
     python3 01_Basics/27_Text_Unicode_Regex/05_regex_compiled_groups.py

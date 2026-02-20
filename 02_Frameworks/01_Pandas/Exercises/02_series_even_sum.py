@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：Series 过滤与求和（偶数求和）。
+Author: Lambert
 
 题目：
 给定一个整数 Series，筛选出偶数并求和。

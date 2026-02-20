@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：实现简化版 map/filter。
+Author: Lambert
 
 要求：
 - 实现 simple_map(func, iterable) 与 simple_filter(pred, iterable)

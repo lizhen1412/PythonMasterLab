@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 01：pandas 2.3.3 学习索引。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 02_Frameworks/01_Pandas/01_overview.py
@@ -59,6 +60,21 @@ TOPICS: list[tuple[str, str]] = [
     ("47_cut_qcut.py", "分箱 cut/qcut"),
     ("48_datetime_formatting.py", "日期格式化"),
     ("49_io_csv_encoding.py", "CSV 编码与中文"),
+    ("50_extension_types.py", "Extension Types - 扩展类型与自定义访问器"),
+    ("51_pandas_testing.py", "Pandas Testing - 测试工具"),
+    ("52_sparse_arrays.py", "Sparse Arrays - 稀疏数组"),
+    ("53_options_api.py", "Options API - 全局选项配置"),
+    ("54_plotting_advanced.py", "Advanced Plotting - 高级绘图"),
+    ("55_dataframe_methods.py", "DataFrame Methods - nlargest/nsmallest/compare/factorize/sample"),
+    ("56_resample_ohlc.py", "Resample OHLC - 金融数据重采样"),
+    ("57_io_formats_extended.py", "Extended I/O - Feather/Parquet/Stata/SAS/JSONL"),
+    ("58_special_io_formats.py", "Special I/O Formats - HDF5/XML/Clipboard/ExcelWriter"),
+    ("59_complete_methods.py", "Complete Methods - corr/cov/rank/pct_change/shift/diff/expanding/explode/get_dummies"),
+    ("60_grouper_advanced.py", "Grouper Advanced - 时间序列分组、多级分组"),
+    ("61_period_advanced.py", "Period Advanced - Period 创建、运算、转换"),
+    ("62_datetime_components.py", "DateTime Components - dt.* 方法和属性完整覆盖"),
+    ("63_api_methods_complete.py", "API Methods Complete - clip/quantile/rank/mode/median/between"),
+    ("64_crosstab_advanced.py", "Crosstab Advanced - 交叉表进阶、margins、normalize"),
     ("90_generate_api_reference.py", "生成 API 索引（需 pandas）"),
     ("Exercises/01_overview.py", "练习索引"),
 ]

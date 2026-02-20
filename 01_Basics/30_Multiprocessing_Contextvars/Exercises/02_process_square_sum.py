@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 02: Sum of squares with processes.
+Author: Lambert
 
 Task:
 Implement sum_squares(nums) -> int using multiprocessing.Queue.

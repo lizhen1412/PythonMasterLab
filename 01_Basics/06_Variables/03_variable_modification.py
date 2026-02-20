@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：变量修改（重新绑定 vs 原地修改）。
+Author: Lambert
 
 你会学到：
 1) 不可变对象（int/str/tuple）：看起来“修改”其实常常是重新绑定新对象
@@ -63,4 +64,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

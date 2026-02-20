@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：iter(callable, sentinel) 的哨兵迭代。
+Author: Lambert
 
 你会学到：
 1) iter(callable, sentinel) 会反复调用 callable

@@ -49,6 +49,20 @@
 - I/O：`save/load`、`savetxt/loadtxt`（内存）
 - 视图与拷贝：`slice` vs `copy`
 - ufunc 与条件：`where/clip/sqrt`
+- **新增**: FFT（快速傅里叶变换、频谱分析、信号滤波）
+- **新增**: Polynomial（多项式运算、拟合、求根、切比雪夫/勒让德）
+- **新增**: Masked Arrays（掩码数组、缺失值处理）
+- **新增**: Financial（金融函数、货币时间价值、IRR/NPV）
+- **新增**: Performance（einsum、nditer、性能优化）
+- **新增**: Signal Processing（convolve/correlate/gradient/trapz/diff）
+- **新增**: Histogram & Digitize（直方图/bincount/digitize）
+- **新增**: Memmap（内存映射文件）
+- **新增**: Structured Arrays（结构化数组）
+- **新增**: Advanced Indexing（ix_/mgrid/ogrid/select/choose）
+- **新增**: Linear Algebra Advanced（QR/Schur/Cholesky/伪逆/条件数）
+- **新增**: FFT Advanced（rfft/rfft2/窗函数/零填充）
+- **新增**: Ufunc Advanced（outer/at/reduceat/accumulate/自定义）
+- **新增**: DateTime64（datetime64/timedelta64 完整操作）
 
 ---
 
@@ -73,6 +87,21 @@
 | 15 | [`15_views_copies.py`](15_views_copies.py) | 视图与拷贝 |
 | 16 | [`16_vectorize_ufunc.py`](16_vectorize_ufunc.py) | ufunc 与条件处理 |
 | 17 | [`17_chapter_summary.py`](17_chapter_summary.py) | 本章总结 |
+| 18 | [`18_fft_basics.py`](18_fft_basics.py) | FFT - 快速傅里叶变换 |
+| 19 | [`19_polynomial.py`](19_polynomial.py) | Polynomial - 多项式运算 |
+| 20 | [`20_masked_arrays.py`](20_masked_arrays.py) | Masked Arrays - 掩码数组 |
+| 21 | [`21_financial.py`](21_financial.py) | Financial - 金融函数 |
+| 22 | [`22_performance_optimization.py`](22_performance_optimization.py) | Performance - 性能优化 |
+| 23 | [`23_signal_processing.py`](23_signal_processing.py) | Signal Processing - 信号处理 |
+| 24 | [`24_histogram_digitize.py`](24_histogram_digitize.py) | Histogram & Digitize - 直方图与分箱 |
+| 25 | [`25_memmap.py`](25_memmap.py) | Memmap - 内存映射文件 |
+| 26 | [`26_structured_arrays.py`](26_structured_arrays.py) | Structured Arrays - 结构化数组 |
+| 27 | [`27_advanced_indexing.py`](27_advanced_indexing.py) | Advanced Indexing - 高级索引 |
+| 28 | [`28_numpy_complete.py`](28_numpy_complete.py) | NumPy Complete - einsum/pad/char/corrcoef/interp/trim_zeros |
+| 29 | [`29_linalg_advanced.py`](29_linalg_advanced.py) | Linear Algebra Advanced - QR/Schur/Cholesky/伪逆/条件数 |
+| 30 | [`30_fft_advanced.py`](30_fft_advanced.py) | FFT Advanced - rfft/rfft2/窗函数/零填充 |
+| 31 | [`31_ufunc_advanced.py`](31_ufunc_advanced.py) | Ufunc Advanced - outer/at/reduceat/accumulate/自定义 |
+| 32 | [`32_datetime64.py`](32_datetime64.py) | DateTime64 - datetime64/timedelta64 完整操作 |
 | 90 | [`Exercises/01_overview.py`](Exercises/01_overview.py) | 练习索引 |
 
 ---
@@ -88,3 +117,10 @@
 - `Exercises/06_fill_nan_mean.py`：NaN 均值填充
 - `Exercises/07_stack_columns.py`：列拼接
 - `Exercises/08_dot_product.py`：向量点积
+- `Exercises/09_einsum.py`：einsum 矩阵运算
+- `Exercises/10_fft_filter.py`：FFT 频谱分析
+- `Exercises/11_outer_product.py`：ufunc.outer 外积
+- `Exercises/12_qr_decomposition.py`：QR 分解
+- `Exercises/13_datetime_diff.py`：datetime64 运算
+- `Exercises/14_accumulate.py`：ufunc.accumulate
+- `Exercises/15_structured_array.py`：结构化数组

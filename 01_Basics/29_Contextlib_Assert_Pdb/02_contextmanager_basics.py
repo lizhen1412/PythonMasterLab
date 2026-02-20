@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 02: contextmanager basics.
+Author: Lambert
 
 Run:
     python3 01_Basics/29_Contextlib_Assert_Pdb/02_contextmanager_basics.py

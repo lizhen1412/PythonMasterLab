@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：print 一次打印多个内容（最核心）。
+Author: Lambert
 
 记住 print 的签名（Python 内置）：
     print(*objects, sep=" ", end="\\n", file=sys.stdout, flush=False)
@@ -58,4 +59,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

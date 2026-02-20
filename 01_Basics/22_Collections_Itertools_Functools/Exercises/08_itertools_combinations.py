@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 08：组合枚举。
+Author: Lambert
 
 题目：
 实现函数 `choose(items, k)`：

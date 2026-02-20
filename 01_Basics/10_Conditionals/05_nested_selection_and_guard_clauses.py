@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：嵌套选择 vs 卫语句（Guard Clauses）
+Author: Lambert
 
 你会学到：
 1) 嵌套 if 会增加缩进层级，读起来更累
@@ -83,4 +84,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

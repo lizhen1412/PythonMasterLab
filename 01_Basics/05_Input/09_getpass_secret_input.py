@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：密码/密钥输入（getpass，不回显）。
+Author: Lambert
 
 你会学到：
 1) `getpass.getpass()`：从终端读取，不回显输入内容（更安全）
@@ -32,4 +33,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

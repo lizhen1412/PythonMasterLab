@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 15：视图与拷贝。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/15_views_copies.py

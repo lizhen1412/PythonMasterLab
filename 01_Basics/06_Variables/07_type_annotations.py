@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：类型注解（type annotations）与变量。
+Author: Lambert
 
 重点结论：
 - 类型注解主要服务于 IDE/类型检查器（pyright/mypy 等），**不会强制运行时类型**。

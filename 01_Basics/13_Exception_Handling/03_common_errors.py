@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：异常处理——常见错误（Common Errors）
+Author: Lambert
 
 目标：
 - 认识最常见的异常类型与触发方式
@@ -56,4 +57,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

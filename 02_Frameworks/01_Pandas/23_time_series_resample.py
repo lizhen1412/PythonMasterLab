@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 23：时间序列重采样（resample）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/23_time_series_resample.py

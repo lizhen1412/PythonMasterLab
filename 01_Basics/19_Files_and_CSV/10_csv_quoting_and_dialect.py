@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：quoting/delimiter/quotechar，Sniffer。
+Author: Lambert
 """
 
 from __future__ import annotations

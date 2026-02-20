@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 03：CPU 密集 vs I/O 模拟 —— 线程池收益对比。
+Author: Lambert
 """
 
 from __future__ import annotations

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：+= 与 + 在可变对象上的差异（别名影响）
+Author: Lambert
 
 题目：
 实现 `demo()`，要求用代码验证下面事实：
@@ -63,4 +64,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 51：迭代方法（iteritems/iterrows/itertuples）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/51_iteration.py

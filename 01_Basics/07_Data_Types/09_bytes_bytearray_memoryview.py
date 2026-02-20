@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：二进制数据（bytes / bytearray / memoryview）。
+Author: Lambert
 
 你会学到：
 1) bytes：不可变字节序列；常用于网络/文件/编码结果
@@ -47,4 +48,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 07：asyncio.Queue 生产、线程池消费（阻塞），哨兵退出。
+Author: Lambert
 """
 
 from __future__ import annotations

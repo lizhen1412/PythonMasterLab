@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：线程异常与日志（excepthook）。
+Author: Lambert
 """
 
 from __future__ import annotations

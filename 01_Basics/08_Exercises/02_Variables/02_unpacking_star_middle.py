@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：解包 first/*middle/last
+Author: Lambert
 
 题目：
 实现 `split_head_middle_tail(items)`，要求：
@@ -36,4 +37,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

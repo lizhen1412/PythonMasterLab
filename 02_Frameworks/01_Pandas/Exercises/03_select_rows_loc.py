@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：loc 选择行。
+Author: Lambert
 
 题目：
 给定一个以姓名为索引的 DataFrame，

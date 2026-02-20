@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：ChainMap 配置覆盖。
+Author: Lambert
 
 题目：
 实现函数 `build_config(defaults, user, env)`：

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：赋值与解包（unpacking）。
+Author: Lambert
 
 你会看到：
 1) 单个赋值：x = 1
@@ -47,4 +48,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

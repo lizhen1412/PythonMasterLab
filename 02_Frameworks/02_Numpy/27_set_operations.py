@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 27：集合操作。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/27_set_operations.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：`lambda` 与“函数是一等公民”。
+Author: Lambert
 
 - lambda 适用场景：短小回调/排序 key/一次性函数
 - 不适合：复杂逻辑、多语句、需要注释的场景（请用 def）

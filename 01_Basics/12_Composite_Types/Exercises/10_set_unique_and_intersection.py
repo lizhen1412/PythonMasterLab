@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 10：set 去重与交集（集合运算）
+Author: Lambert
 
 题目：
 实现两个函数：
@@ -43,4 +44,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 13：线性代数入门（dot/@/solve/norm）。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/13_linear_algebra.py

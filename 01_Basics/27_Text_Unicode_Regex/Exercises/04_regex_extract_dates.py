@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 04: Extract dates with regex.
+Author: Lambert
 
 Task:
 Implement extract_dates(text) -> list[str] for YYYY-MM-DD.

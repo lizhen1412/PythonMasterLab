@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：collections.deque。
+Author: Lambert
 
 你会学到：
 1) deque 是双端队列，头尾插入/弹出都是 O(1)

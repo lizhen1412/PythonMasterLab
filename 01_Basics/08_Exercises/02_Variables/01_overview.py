@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 01：变量（进阶，02_Variables）练习索引（每题一个文件）。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 01_Basics/08_Exercises/02_Variables/01_overview.py
@@ -31,4 +32,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

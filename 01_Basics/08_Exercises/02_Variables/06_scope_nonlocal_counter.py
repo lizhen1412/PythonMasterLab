@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 06：nonlocal（闭包计数器）
+Author: Lambert
 
 题目：
 实现 `make_counter(start=0)`，要求：
@@ -43,4 +44,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

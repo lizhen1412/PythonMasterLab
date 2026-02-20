@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：sys.stdin.readline/read 到 EOF（以及与 input() 的关系）。
+Author: Lambert
 
 你会学到：
 1) `input()`：读一行并去掉结尾换行符（没读到会 EOFError）

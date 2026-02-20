@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 06: Greedy vs non-greedy regex.
+Author: Lambert
 
 Run:
     python3 01_Basics/27_Text_Unicode_Regex/06_regex_greedy_nongreedy.py

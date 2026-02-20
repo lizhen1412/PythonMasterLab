@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：数字类型（int / float / complex）以及常见精度问题。
+Author: Lambert
 
 你会学到：
 1) int：任意精度整数（不会溢出，只会更大）
@@ -63,4 +64,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

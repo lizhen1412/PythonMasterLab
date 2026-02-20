@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 13：print 基础：打印变量与常用参数。
+Author: Lambert
 
 你会学到：
 1) `print(*objects)`：打印多个值
@@ -42,4 +43,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：安全除法（safe divide）
+Author: Lambert
 
 题目：
 实现函数 `safe_divide(a, b, default=None)`：
@@ -40,4 +41,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

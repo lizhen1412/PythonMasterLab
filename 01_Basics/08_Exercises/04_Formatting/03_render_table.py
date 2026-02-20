@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：渲染对齐文本表格（按列宽自动对齐）
+Author: Lambert
 
 题目：
 实现 `render_table(rows, columns)`，要求：
@@ -50,4 +51,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

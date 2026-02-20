@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 09: Chapter summary.
+Author: Lambert
 
 Run:
     python3 01_Basics/24_Serialization_Config_SQLite/09_chapter_summary.py

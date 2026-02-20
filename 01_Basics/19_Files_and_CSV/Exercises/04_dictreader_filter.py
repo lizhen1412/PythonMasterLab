@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 04：DictReader 过滤行并写出新文件。
+Author: Lambert
 """
 
 from __future__ import annotations

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：布尔/花式索引与 where。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/05_boolean_fancy_index.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 11：可变性（修复嵌套列表的“共享引用”坑）
+Author: Lambert
 
 题目：
 很多人会写出这种二维表格：
@@ -61,4 +62,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

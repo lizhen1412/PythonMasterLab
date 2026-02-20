@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 16：数值类型方法全覆盖（int / float / complex）。
+Author: Lambert
 
 你会学到：
 1) int 的方法与“数值属性”

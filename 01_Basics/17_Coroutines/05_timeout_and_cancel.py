@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：超时与取消（wait_for / asyncio.timeout / task.cancel）。
+Author: Lambert
 """
 
 from __future__ import annotations

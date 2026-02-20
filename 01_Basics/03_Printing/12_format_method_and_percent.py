@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：历史格式化方式（为了“看懂旧代码”也必须会）
+Author: Lambert
 
 现代 Python 最推荐 f-string（见 05），但你在真实项目里仍会看到：
 1) `str.format()` / `format_map()`
@@ -44,4 +45,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

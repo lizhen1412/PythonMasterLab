@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：Index 与列名管理。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/01_Pandas/05_index_and_columns.py

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Exercise 03: Decode with error handling.
+Author: Lambert
 
 Task:
 Implement safe_decode(data) -> str using utf-8 and errors='replace'.

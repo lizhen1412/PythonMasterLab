@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：多分支（分数 -> 等级）
+Author: Lambert
 
 题目：
 实现 `grade(score)`，规则：
@@ -59,4 +60,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

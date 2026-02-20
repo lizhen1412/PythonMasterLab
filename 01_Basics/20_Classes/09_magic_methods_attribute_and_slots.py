@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 09：属性访问与 __slots__。
+Author: Lambert
 
 你会学到：
 1) __getattr__：找不到属性时的兜底逻辑

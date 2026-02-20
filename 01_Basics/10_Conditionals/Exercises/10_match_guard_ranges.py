@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 10：match + guard（范围判断）
+Author: Lambert
 
 题目：
 实现 `classify(obj)`，规则：
@@ -51,4 +52,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

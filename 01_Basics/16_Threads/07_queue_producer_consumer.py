@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：Queue 生产者-消费者，哨兵退出。
+Author: Lambert
 """
 
 from __future__ import annotations

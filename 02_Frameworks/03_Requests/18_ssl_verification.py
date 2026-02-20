@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 18：SSL/TLS 证书验证控制。
+Author: Lambert
 
 要点：
 - verify=True（默认）：验证 SSL 证书，推荐生产环境使用

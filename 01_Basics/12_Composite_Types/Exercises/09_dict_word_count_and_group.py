@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 09：dict 计数与分组（get / setdefault）
+Author: Lambert
 
 题目：
 实现两个函数：
@@ -55,4 +56,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 12：编码/BOM，空行处理。
+Author: Lambert
 """
 
 from __future__ import annotations

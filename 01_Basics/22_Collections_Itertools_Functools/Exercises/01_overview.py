@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习索引：collections / itertools / functools。
+Author: Lambert
 
 运行方式（在仓库根目录执行）：
     python3 01_Basics/22_Collections_Itertools_Functools/Exercises/01_overview.py

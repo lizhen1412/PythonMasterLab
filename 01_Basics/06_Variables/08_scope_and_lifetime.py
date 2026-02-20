@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 08：作用域与生命周期（变量在哪可见、什么时候消失）。
+Author: Lambert
 
 你会学到：
 1) LEGB：Local / Enclosing / Global / Builtins
@@ -78,4 +79,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

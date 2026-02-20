@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：并发运行两个 sleep，比较耗时。
+Author: Lambert
 """
 
 from __future__ import annotations

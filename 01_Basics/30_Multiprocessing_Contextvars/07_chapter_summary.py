@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 07: Chapter summary.
+Author: Lambert
 
 Run:
     python3 01_Basics/30_Multiprocessing_Contextvars/07_chapter_summary.py

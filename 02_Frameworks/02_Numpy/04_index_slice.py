@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：索引与切片。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/02_Numpy/04_index_slice.py

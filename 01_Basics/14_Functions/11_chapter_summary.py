@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 11：本章总结与常见误区。
+Author: Lambert
 """
 
 from __future__ import annotations

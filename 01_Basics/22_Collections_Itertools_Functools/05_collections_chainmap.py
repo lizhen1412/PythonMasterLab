@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 05：collections.ChainMap。
+Author: Lambert
 
 你会学到：
 1) 多个 dict 的“分层视图”

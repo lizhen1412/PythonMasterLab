@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：多行输入直到 END（模拟）
+Author: Lambert
 
 题目：
 实现 `read_until_end(lines, sentinel="END")`，要求：
@@ -39,4 +40,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

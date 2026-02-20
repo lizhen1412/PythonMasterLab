@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 24：Cookie 持久化。
+Author: Lambert
 
 要点：
 - LWPCookieJar/MozillaCookieJar：Cookie 文件格式

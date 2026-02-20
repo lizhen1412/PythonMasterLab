@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 02：异常处理基础（异常是什么？怎么读 traceback？）
+Author: Lambert
 
 你会学到：
 1) SyntaxError/IndentationError（解析阶段） vs Exception（运行阶段）
@@ -65,4 +66,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

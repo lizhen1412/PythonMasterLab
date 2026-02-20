@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 09: abc and abstract methods.
+Author: Lambert
 
 Run:
     python3 01_Basics/23_Typing_OOP_Advanced/09_abc_and_abstractmethod.py

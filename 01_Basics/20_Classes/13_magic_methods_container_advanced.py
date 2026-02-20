@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 13：容器协议进阶（__delitem__/__reversed__）。
+Author: Lambert
 
 你会学到：
 1) del obj[i] 触发 __delitem__

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 10：重定向与 history。
+Author: Lambert
 
 运行：
     python3 02_Frameworks/03_Requests/10_redirects_and_history.py

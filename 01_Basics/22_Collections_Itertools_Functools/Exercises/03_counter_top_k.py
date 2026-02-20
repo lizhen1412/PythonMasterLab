@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：Counter 统计 top-k。
+Author: Lambert
 
 题目：
 实现函数 `top_k_words(words, k)`：

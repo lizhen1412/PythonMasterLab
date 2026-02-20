@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Lesson 01: Math and Statistics index.
+Author: Lambert
 
 Run:
     python3 01_Basics/28_Math_Statistics/01_overview.py

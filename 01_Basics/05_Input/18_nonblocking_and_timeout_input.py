@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 18：非阻塞/超时输入（select）。
+Author: Lambert
 
 你会学到：
 1) select 等待 stdin 可读

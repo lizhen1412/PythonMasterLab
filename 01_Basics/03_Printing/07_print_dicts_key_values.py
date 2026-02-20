@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 07：一行打印 dict（结构化输出）
+Author: Lambert
 
 你会学到：
 1) 直接 print(dict)：快速但不一定最“工程化”
@@ -43,4 +44,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

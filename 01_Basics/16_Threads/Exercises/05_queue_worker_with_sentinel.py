@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 05：Queue 任务 + 哨兵退出。
+Author: Lambert
 """
 
 from __future__ import annotations

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 13：本章总结（迭代器与生成器）。
+Author: Lambert
 
 运行：
     python3 01_Basics/21_Iterators_Generators/13_chapter_summary.py

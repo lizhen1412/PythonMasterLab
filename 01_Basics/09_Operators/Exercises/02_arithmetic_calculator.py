@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 02：算术小计算器（+ - * / // % ** divmod）
+Author: Lambert
 
 题目：
 实现 `calc(a, b)`，返回一个 dict，包含：
@@ -69,4 +70,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

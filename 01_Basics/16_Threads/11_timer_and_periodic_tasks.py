@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 11：Timer 与周期任务。
+Author: Lambert
 """
 
 from __future__ import annotations

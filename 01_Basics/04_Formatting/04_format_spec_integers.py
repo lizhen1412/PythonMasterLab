@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 示例 04：格式化规格（format spec）——整数（int）。
+Author: Lambert
 
 本文件覆盖“常见且必须会”的整数格式化：
 1) 进制：b/o/d/x/X
@@ -57,4 +58,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

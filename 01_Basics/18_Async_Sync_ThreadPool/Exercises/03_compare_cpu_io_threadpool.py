@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 练习 03：对比线程池处理 CPU vs I/O 耗时。
+Author: Lambert
 """
 
 from __future__ import annotations
