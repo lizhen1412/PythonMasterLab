@@ -25,8 +25,7 @@ def main() -> None:
     print("本章总结（numpy 2.4.0）：")
     for i, line in enumerate(SUMMARY, start=1):
         print(f"{i}. {line}")
-    print("
-下一步：运行练习索引 -> python3 02_Frameworks/02_Numpy/Exercises/01_overview.py")
+    print("\n下一步：运行练习索引 -> python3 02_Frameworks/02_Numpy/Exercises/01_overview.py")
 
 
 if __name__ == "__main__":

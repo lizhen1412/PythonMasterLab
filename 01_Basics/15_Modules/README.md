@@ -1,6 +1,6 @@
 # Python 3.11+ 模块与包（Modules & Packages）学习笔记（第 15 章）
 
-本章是一组“可运行的小脚本”，讲解模块/包的导入与使用、常用标准库（`random`/`re`/`datetime`/`turtle`/`socket`）、实用小示例（随机小游戏、身份证号校验、简单 socket 交互），以及如何安装第三方库（pip/venv/uv/pipx）。附带练习题（每题一文件）。
+本章是一组"可运行的小脚本"，讲解模块/包的导入与使用、常用标准库（`random`/`re`/`datetime`/`turtle`/`socket`）、实用小示例（随机小游戏、身份证号校验、TCP/UDP 网络编程），以及如何安装第三方库（pip/venv/uv/pipx）。附带练习题（每题一文件）。
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 2) 本章“知识点全景”清单
+## 2) 本章"知识点全景"清单
 
 ### 2.1 模块与包
 - `import` / `from ... import ...` / `as` 重命名；`__name__` 与脚本/模块模式
@@ -26,7 +26,7 @@
 - `re`：编译/搜索/分组；身份证号校验（长度 + 出生日期 + 校验码）
 - 时间日期：`datetime`/`timezone`/`strftime`；`time` 睡眠与时间戳
 - `turtle`：绘图入门（需要图形界面，示例内置安全检查）
-- `socket`：基础概念（地址族/类型），`socket.socketpair` 演示收发
+- `socket`：TCP/UDP 服务器客户端、套接字选项、非阻塞 I/O、select 多路复用
 - `importlib.resources`：读取包内资源文件
 - `secrets`：安全随机（对比 random 的非安全性）
 
@@ -58,7 +58,11 @@
 | 13 | [`13_package_main_and_reload.py`](13_package_main_and_reload.py) | 包入口（`-m`/`__main__.py`）与模块缓存/reload |
 | 14 | [`14_importing_resources.py`](14_importing_resources.py) | importlib.resources 读取包内数据文件 |
 | 15 | [`15_secrets_vs_random.py`](15_secrets_vs_random.py) | 安全随机：secrets vs random |
-| 16 | [`Exercises/01_overview.py`](Exercises/01_overview.py) | 本章练习索引（每题一个文件） |
+| 16 | [`16_tcp_server_client.py`](16_tcp_server_client.py) | TCP 服务器与客户端：bind/listen/accept/connect |
+| 17 | [`17_udp_server_client.py`](17_udp_server_client.py) | UDP 服务器与客户端：sendto/recvfrom 数据报 |
+| 18 | [`18_socket_options_timeout.py`](18_socket_options_timeout.py) | Socket 选项与超时：SO_REUSEADDR/KEEPALIVE/NODELAY |
+| 19 | [`19_socket_nonblocking.py`](19_socket_nonblocking.py) | 非阻塞 Socket 与 select I/O 多路复用基础 |
+| 20 | [`Exercises/01_overview.py`](Exercises/01_overview.py) | 本章练习索引（每题一个文件） |
 
 ---
 
@@ -77,6 +81,7 @@
 ## 5) 小贴士
 
 - 运行脚本时保持当前工作目录在仓库根，确保相对路径和导入正常
-- `if __name__ == "__main__": ...` 用于“脚本入口”，被 import 时不会自动执行
+- `if __name__ == "__main__": ...` 用于"脚本入口"，被 import 时不会自动执行
 - 没有图形界面的环境（如远程服务器）运行 `turtle` 需提前检查/跳过
-- 网络受限环境请避免对外连接；本章示例使用本地通信或纯计算
+- TCP/UDP 示例使用 localhost 避免网络问题和防火墙干扰
+- 生产环境网络编程需考虑异常处理、并发连接、优雅关闭等

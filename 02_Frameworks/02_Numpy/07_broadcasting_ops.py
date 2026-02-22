@@ -24,12 +24,10 @@ def main() -> None:
     print("col ->")
     print(col)
 
-    print("
-mat + row（按列广播）->")
+    print("\nmat + row（按列广播）->")
     print(mat + row)
 
-    print("
-mat * col（按行广播）->")
+    print("\nmat * col（按行广播）->")
     print(mat * col)
 
 

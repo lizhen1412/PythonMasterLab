@@ -24,6 +24,11 @@ TOPICS: list[tuple[str, str]] = [
     ("11_fire_and_forget_caveats.py", "fire-and-forget 风险，添加回调监控异常"),
     ("12_asyncio_vs_threads_brief.py", "协程 vs 线程选择指南"),
     ("13_chapter_summary.py", "本章总结：规则清单与常见坑"),
+    ("14_asyncio_event_and_condition.py", "Event 和 Condition：同步原语与等待/通知模式"),
+    ("15_task_status_management.py", "Task 状态管理：done()/cancelled()/result()/exception()"),
+    ("16_queue_sync_patterns.py", "Queue 同步模式：task_done()/join() 与生产者-消费者"),
+    ("17_asyncio_subprocess.py", "asyncio.subprocess：子进程管理与交互"),
+    ("18_asyncio_streams_advanced.py", "asyncio Streams 高级API：StreamReader/Writer详解"),
     ("Exercises/01_overview.py", "练习题索引（每题一个文件）"),
 ]
 

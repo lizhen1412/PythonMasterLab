@@ -33,7 +33,7 @@ def main() -> None:
     print("strip()      =", repr(text.strip()))
     print("lstrip()     =", repr(text.lstrip()))
     print("rstrip()     =", repr(text.rstrip()))
-    print("rstrip('\\n') =", repr(text.rstrip(\"\\n\")))
+    print("rstrip('\\n') =", repr(text.rstrip("\\n")))
 
 
 if __name__ == "__main__":

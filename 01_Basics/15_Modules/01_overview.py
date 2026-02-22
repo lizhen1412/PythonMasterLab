@@ -26,6 +26,13 @@ TOPICS: list[tuple[str, str]] = [
     ("13_package_main_and_reload.py", "包入口（-m/__main__.py）与模块缓存、reload"),
     ("14_importing_resources.py", "importlib.resources 读取包内资源文件"),
     ("15_secrets_vs_random.py", "安全随机：secrets vs random（密码学 vs 非安全）"),
+    ("16_tcp_server_client.py", "TCP 服务器与客户端：bind/listen/accept/connect"),
+    ("17_udp_server_client.py", "UDP 服务器与客户端：sendto/recvfrom 数据报"),
+    ("18_socket_options_timeout.py", "Socket 选项与超时：SO_REUSEADDR/KEEPALIVE/NODELAY"),
+    ("19_socket_nonblocking.py", "非阻塞 Socket 与 select I/O 多路复用基础"),
+    ("20_socket_shutdown.py", "Socket 优雅关闭：shutdown() 三种模式与半关闭"),
+    ("21_tcp_connection_states.py", "TCP 连接状态：三次握手、四次挥手详解"),
+    ("22_socket_advanced_io.py", "Socket 高级 I/O：getpeername/makefile/recv_into/sendfile"),
     ("Exercises/01_overview.py", "练习题索引（每题一个文件）"),
 ]
 

@@ -22,28 +22,22 @@ def main() -> None:
     print("b ->")
     print(b)
 
-    print("
-concatenate(axis=0) ->")
+    print("\nconcatenate(axis=0) ->")
     print(np.concatenate([a, b], axis=0))
 
-    print("
-concatenate(axis=1) ->")
+    print("\nconcatenate(axis=1) ->")
     print(np.concatenate([a, b], axis=1))
 
-    print("
-vstack ->")
+    print("\nvstack ->")
     print(np.vstack([a, b]))
 
-    print("
-hstack ->")
+    print("\nhstack ->")
     print(np.hstack([a, b]))
 
-    print("
-stack(axis=0) ->")
+    print("\nstack(axis=0) ->")
     print(np.stack([a, b], axis=0))
 
-    print("
-split ->")
+    print("\nsplit ->")
     parts = np.split(np.arange(6), 3)
     print(parts)
 

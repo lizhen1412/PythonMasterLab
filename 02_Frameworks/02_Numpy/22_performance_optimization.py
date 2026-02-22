@@ -194,7 +194,12 @@ def main() -> None:
     b = np.zeros(1000000)
 
     print("\n不使用广播（循环）:")
-    _, time_loop = time_func(lambda: [b[i] = a[i] * 2 for i in range(len(a))])
+    def loop_assign() -> np.ndarray:
+        for i in range(len(a)):
+            b[i] = a[i] * 2
+        return b
+
+    _, time_loop = time_func(loop_assign)
     print(f"  时间: {time_loop*1000:.2f} ms")
 
     print("\n使用广播:")

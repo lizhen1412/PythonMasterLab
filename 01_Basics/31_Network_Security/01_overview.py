@@ -18,6 +18,11 @@ TOPICS: list[tuple[str, str]] = [
     ("05_hmac_basics.py", "HMAC basics"),
     ("06_ssl_context_basics.py", "SSL context basics"),
     ("07_chapter_summary.py", "Chapter summary"),
+    ("08_ssl_wrapped_socket.py", "SSL wrapped sockets and HTTPS client"),
+    ("09_selectors_basics.py", "selectors: I/O multiplexing"),
+    ("10_socketserver_basics.py", "socketserver: TCP/UDP servers"),
+    ("11_socketserver_production.py", "socketserver: serve_forever/shutdown 优雅关闭"),
+    ("12_ssl_server_context.py", "SSL server context: HTTPS 服务器配置与证书管理"),
     ("Exercises/01_overview.py", "Exercises index"),
 ]
 

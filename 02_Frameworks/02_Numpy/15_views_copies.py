@@ -23,14 +23,12 @@ def main() -> None:
     print("copy ->", copy)
 
     view[:] = 100
-    print("
-修改 view 后 arr ->", arr)
+    print("\n修改 view 后 arr ->", arr)
 
     copy[:] = -1
     print("修改 copy 后 arr ->", arr)
 
-    print("
-shares_memory(view, arr) ->", np.shares_memory(view, arr))
+    print("\nshares_memory(view, arr) ->", np.shares_memory(view, arr))
     print("shares_memory(copy, arr) ->", np.shares_memory(copy, arr))
 
 

@@ -20,8 +20,7 @@ def main() -> None:
     print("random((2,3)) ->")
     print(rng.random((2, 3)))
 
-    print("
-choice ->", rng.choice([10, 20, 30, 40], size=3, replace=False))
+    print("\nchoice ->", rng.choice([10, 20, 30, 40], size=3, replace=False))
 
     arr = np.arange(5)
     rng.shuffle(arr)

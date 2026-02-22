@@ -18,17 +18,14 @@ def main() -> None:
     print("arr ->", arr)
 
     mat = arr.reshape(3, 4)
-    print("
-reshape(3,4) ->")
+    print("\nreshape(3,4) ->")
     print(mat)
 
-    print("
-ravel ->", mat.ravel())
+    print("\nravel ->", mat.ravel())
     print("transpose ->")
     print(mat.T)
 
-    print("
-swapaxes(0,1) ->")
+    print("\nswapaxes(0,1) ->")
     print(mat.swapaxes(0, 1))
 
 

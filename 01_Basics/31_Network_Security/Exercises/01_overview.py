@@ -16,6 +16,9 @@ TOPICS: list[tuple[str, str]] = [
     ("03_build_query_url.py", "Build URL with query"),
     ("04_hash_password.py", "Compute sha256"),
     ("05_hmac_verify.py", "Verify HMAC"),
+    ("06_https_client.py", "HTTPS client with SSL wrapped socket"),
+    ("07_selectors_server.py", "Echo server using selectors"),
+    ("08_socketserver_handler.py", "TCP server using socketserver"),
 ]
 
 

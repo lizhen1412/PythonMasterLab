@@ -25,8 +25,7 @@ def main() -> None:
     loaded = np.load(buffer)
     print(loaded)
 
-    print("
-np.savetxt / np.loadtxt (StringIO) ->")
+    print("\nnp.savetxt / np.loadtxt (StringIO) ->")
     text_buffer = StringIO()
     np.savetxt(text_buffer, arr, fmt="%.1f", delimiter=",")
     text = text_buffer.getvalue()

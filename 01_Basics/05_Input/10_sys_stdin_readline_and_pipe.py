@@ -62,7 +62,7 @@ def interactive_one_line() -> None:
         return
 
     print("repr(line) =", repr(line))
-    print("rstrip('\\n') =", repr(line.rstrip(\"\\n\")))
+    print("rstrip('\\n') =", repr(line.rstrip("\\n")))
 
     try:
         text = input("\n3) 再用 input() 读一行（它会自动去掉结尾换行）：")

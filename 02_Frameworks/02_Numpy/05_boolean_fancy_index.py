@@ -18,15 +18,12 @@ def main() -> None:
     print("arr ->", arr)
 
     mask = arr % 2 == 0
-    print("
-偶数 mask ->", mask)
+    print("\n偶数 mask ->", mask)
     print("偶数元素 ->", arr[mask])
 
-    print("
-花式索引 ->", arr[[0, 2, 4]])
+    print("\n花式索引 ->", arr[[0, 2, 4]])
 
-    print("
-where 条件替换 ->")
+    print("\nwhere 条件替换 ->")
     print(np.where(arr > 3, arr, 0))
 
 

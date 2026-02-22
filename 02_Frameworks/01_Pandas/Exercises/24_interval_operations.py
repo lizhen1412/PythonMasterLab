@@ -42,7 +42,7 @@ def create_interval_analysis() -> None:
 
     # 获取包含某个值的区间
     print("\n获取包含 5 的区间:")
-    print(intervals.get_indexer_for([pd.Interval(5, 5))]))
+    print(intervals.get_indexer([5]))
 
     print("\n[OK] interval operations")
 

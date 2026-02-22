@@ -9,17 +9,17 @@ Quick start
 -----------
 
 - Run a topic index:
-  `python3 01_Basics/02_Variables/01_overview.py`
+  `python3.11 01_Basics/02_Variables/01_overview.py`
 - Run a single lesson:
-  `python3 01_Basics/02_Variables/02_variable_basics.py`
-- Compile check (basics):
-  `python3 -m compileall 01_Basics`
+  `python3.11 01_Basics/02_Variables/02_variable_basics.py`
+- Compile check (all learning tracks):
+  `PYTHONPYCACHEPREFIX=/tmp/pycache python3.11 -m compileall 01_Basics 02_Frameworks`
 
 Structure
 ---------
 
 - `01_Basics/`: core Python lessons by topic
-- `02_Frameworks/`: framework notes（Pandas、NumPy、Requests）
+- `02_Frameworks/`: framework notes（Pandas、NumPy、Requests、Playwright）
 - `docs/`: placeholder for future docs
 
 Requirements
@@ -28,3 +28,5 @@ Requirements
 - Python 3.11+
 - Optional: `numpy>=2.4.0` for `02_Frameworks/02_Numpy`
 - Optional: `pandas>=2.3.3` for `02_Frameworks/01_Pandas`
+- Optional: `requests>=2.32.3` for `02_Frameworks/03_Requests`
+- Optional: `playwright==1.58.0` for `02_Frameworks/04_Playwright`

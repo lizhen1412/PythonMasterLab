@@ -17,14 +17,12 @@ def main() -> None:
     arr = np.array([3, 1, 2, 1, 5])
     print("arr ->", arr)
 
-    print("
-sort ->", np.sort(arr))
+    print("\nsort ->", np.sort(arr))
     print("argsort ->", np.argsort(arr))
     print("unique ->", np.unique(arr))
 
     sorted_arr = np.array([1, 3, 5, 7])
-    print("
-searchsorted(4) ->", np.searchsorted(sorted_arr, 4))
+    print("\nsearchsorted(4) ->", np.searchsorted(sorted_arr, 4))
     print("searchsorted([1,6]) ->", np.searchsorted(sorted_arr, [1, 6]))
 
 

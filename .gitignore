@@ -48,3 +48,14 @@ htmlcov/
 *.tmp
 *.bak
 *.log
+
+# Reference libraries (第三方参考库)
+third_party_refs/
+
+# Playwright 示例输出目录
+02_Frameworks/04_Playwright/demo_output/
+02_Frameworks/04_Playwright/monitoring_output/
+02_Frameworks/04_Playwright/test_output/
+02_Frameworks/04_Playwright/har_output/
+02_Frameworks/04_Playwright/pdf_output/
+02_Frameworks/04_Playwright/video_output/

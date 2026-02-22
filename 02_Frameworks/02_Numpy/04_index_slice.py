@@ -18,8 +18,7 @@ def main() -> None:
     print("arr ->")
     print(arr)
 
-    print("
-单个元素 ->", arr[0, 2])
+    print("\n单个元素 ->", arr[0, 2])
     print("第 2 行 ->", arr[1])
     print("第 2 列 ->", arr[:, 1])
     print("子块 [0:2, 1:3] ->")
@@ -28,8 +27,7 @@ def main() -> None:
     print(arr[:, ::2])
     print("负索引 ->", arr[-1, -1])
 
-    print("
-切片通常是视图（会影响原数组） ->")
+    print("\n切片通常是视图（会影响原数组） ->")
     view = arr[:2, :2]
     view[:] = 0
     print(arr)

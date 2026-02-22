@@ -17,16 +17,14 @@ def main() -> None:
     arr = np.array([1.0, np.nan, 2.0, np.inf, -np.inf])
     print("arr ->", arr)
 
-    print("
-isnan ->", np.isnan(arr))
+    print("\nisnan ->", np.isnan(arr))
     print("isfinite ->", np.isfinite(arr))
 
     arr2 = np.array([1.0, np.nan, 3.0])
     mean_value = np.nanmean(arr2)
     filled = np.where(np.isnan(arr2), mean_value, arr2)
 
-    print("
-原始 arr2 ->", arr2)
+    print("\n原始 arr2 ->", arr2)
     print("nanmean ->", mean_value)
     print("填充后的 arr2 ->", filled)
 

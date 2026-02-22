@@ -22,23 +22,19 @@ def main() -> None:
     print("b ->")
     print(b)
 
-    print("
-a @ b ->")
+    print("\na @ b ->")
     print(a @ b)
 
-    print("
-dot(a, b) ->")
+    print("\ndot(a, b) ->")
     print(np.dot(a, b))
 
     v = np.array([3, 4])
-    print("
-vector norm ->", np.linalg.norm(v))
+    print("\nvector norm ->", np.linalg.norm(v))
 
     A = np.array([[2, 1], [1, 3]])
     y = np.array([1, 2])
     x = np.linalg.solve(A, y)
-    print("
-solve Ax=y ->", x)
+    print("\nsolve Ax=y ->", x)
 
 
 if __name__ == "__main__":

@@ -18,17 +18,14 @@ def main() -> None:
     print("arr ->")
     print(arr)
 
-    print("
-sum ->", arr.sum())
+    print("\nsum ->", arr.sum())
     print("sum(axis=0) ->", arr.sum(axis=0))
     print("sum(axis=1) ->", arr.sum(axis=1))
 
-    print("
-mean(axis=0, keepdims=True) ->")
+    print("\nmean(axis=0, keepdims=True) ->")
     print(arr.mean(axis=0, keepdims=True))
 
-    print("
-max ->", arr.max())
+    print("\nmax ->", arr.max())
     print("argmax ->", arr.argmax())
 
 

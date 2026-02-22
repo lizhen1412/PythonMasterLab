@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-PythonMasterLab is a comprehensive Python learning curriculum with 2,600+ runnable lessons organized as a progressive educational path. Each lesson is a self-contained, executable script designed for "learn-by-running" pedagogy. The project covers fundamentals (31 topics in `01_Basics/`) and frameworks (`02_Frameworks/` with Pandas, NumPy, and Requests).
+PythonMasterLab is a comprehensive Python learning curriculum with 760+ runnable lessons organized as a progressive educational path. Each lesson is a self-contained, executable script designed for "learn-by-running" pedagogy. The project covers fundamentals (31 topics in `01_Basics/`) and frameworks (`02_Frameworks/` with Pandas, NumPy, and Requests).
 
 ## Environment Setup
 
@@ -69,8 +69,12 @@ If adding tests, place under `tests/` with `test_*.py` naming using stdlib `unit
 ```
 01_Basics/              # 31 core Python topics (01-31)
 ├── 01_Comments/
-├── 02_Variables/
-├── ...
+├── 02_Variables/        # Variables and printing variables
+├── 03_Printing/
+├── 04_Formatting/
+├── 05_Input/
+├── 06_Variables/        # Variable creation, modification, naming, types, scope
+├── 07_Data_Types/
 ├── 08_Exercises/        # Comprehensive exercises aggregating topics 01-07
 ├── 09_Operators/
 ├── ...
@@ -84,9 +88,9 @@ If adding tests, place under `tests/` with `test_*.py` naming using stdlib `unit
         └── 02_*.py, 03_*.py
 
 02_Frameworks/           # Framework-specific lessons
-├── 01_Pandas/           # 49 lessons + 16 exercises
-├── 02_Numpy/            # 17 lessons + 8 exercises
-└── 03_Requests/         # 15 lessons using httpbin.org
+├── 01_Pandas/           # 73 lessons + 23 exercises
+├── 02_Numpy/            # 42 lessons + 14 exercises
+└── 03_Requests/         # 27 lessons + 12 exercises using httpbin.org
 ```
 
 ## Code Conventions
@@ -124,7 +128,7 @@ if __name__ == "__main__":
 ## Documentation Language
 
 - **Basics topics** (01-31): README.md files in Chinese
-- **Framework topics**: README.md files in English
+- **Framework topics**: README.md files in Chinese
 - **Code comments**: English throughout
 - **AGENTS.md**: English
 
@@ -133,6 +137,7 @@ if __name__ == "__main__":
 ### Progressive Learning Path
 Topics are numbered 01-31 in logical sequence from basics to advanced:
 - Early topics: Variables, printing, data types, operators
+- **Note**: `02_Variables/` covers variables and printing variables; `06_Variables/` covers variable creation, modification, naming, types, and scope
 - Mid topics: Loops, functions, OOP, files, classes
 - Advanced topics: Async, coroutines, multiprocessing, contextvars, network security
 
@@ -157,17 +162,21 @@ Two types of exercises:
 ## Framework-Specific Notes
 
 ### Pandas (`02_Frameworks/01_Pandas/`)
-- 49 lesson files covering dataframes, series, indexing, grouping, etc.
-- 16 exercises
+- 73 lesson files covering dataframes, series, indexing, grouping, etc.
+- 23 exercises
+- README in Chinese
 - Optional dependencies: openpyxl/xlsxwriter (Excel), pyarrow (Parquet), matplotlib (plotting)
 
 ### NumPy (`02_Frameworks/02_Numpy/`)
-- 17 lesson files covering arrays, broadcasting, indexing, vectorization
-- 8 exercises
+- 42 lesson files covering arrays, broadcasting, indexing, vectorization
+- 14 exercises
+- README in Chinese
 - Focus on vectorized operations and performance
 
 ### Requests (`02_Frameworks/03_Requests/`)
-- 28 lesson files (15 basic + 13 advanced)
+- 27 lesson files (14 basic + 13 advanced)
+- 12 exercises
+- README in Chinese
 - Basic: installation, GET/POST, response parsing, timeouts, Session/Cookie, redirects, streaming downloads, uploads, Basic Auth, retries
 - Advanced: PUT/PATCH/DELETE/HEAD/OPTIONS, proxies, SSL verification, Digest Auth/Bearer Token/API Key, event hooks, connection pool, raw request body, URL encoding, Cookie persistence, Response.raw, DNS/connection reuse, AsyncIO integration
 - Uses httpbin.org public API for demonstrations

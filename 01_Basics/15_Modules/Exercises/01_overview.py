@@ -17,6 +17,8 @@ TOPICS: list[tuple[str, str]] = [
     ("04_regex_extract_emails.py", "用正则提取邮箱地址列表"),
     ("05_validate_id_cards.py", "批量校验身份证号（调用章节函数）"),
     ("06_socket_echo_with_socketpair.py", "用 socket.socketpair 实现本地 echo"),
+    ("07_tcp_echo_server.py", "TCP echo 服务器：bind/listen/accept"),
+    ("08_udp_client.py", "UDP 客户端：sendto/recvfrom"),
 ]
 
 

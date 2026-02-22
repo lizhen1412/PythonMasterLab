@@ -26,8 +26,7 @@ def main() -> None:
     print("d ->")
     print(d)
 
-    print("
-属性 ->")
+    print("\n属性 ->")
     print("a.shape ->", a.shape)
     print("a.ndim ->", a.ndim)
     print("a.size ->", a.size)
